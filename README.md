@@ -169,6 +169,9 @@
 
 ## TypeScript 
 
+- [felixfbecker/link-preview-sidebar](https://github.com/felixfbecker/link-preview-sidebar) - Browser extension to open links in a sidebar instead of a new tab.
+- [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
+- [thesamim/TickTickSync](https://github.com/thesamim/TickTickSync) - 
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [photown/private-pdf](https://github.com/photown/private-pdf) - PrivatePDF is a free web tool that lets you make quick PDF edits from within your web browser, without uploading anything anywhere.
