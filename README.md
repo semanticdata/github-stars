@@ -85,6 +85,7 @@
 
 ## JavaScript 
 
+- [madrilene/eleventy-excellent](https://github.com/madrilene/eleventy-excellent) - Eleventy starter based on the workflow suggested by Andy Bell's buildexcellentwebsit.es.
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [jamigibbs/text-revealer-js](https://github.com/jamigibbs/text-revealer-js) - Reveal deeper information about text you highlight on a web page.
 - [AsmrProg-YT/100-days-of-javascript](https://github.com/AsmrProg-YT/100-days-of-javascript) - AsmrProg Youtube Channel 100 days of javascript codes collection
