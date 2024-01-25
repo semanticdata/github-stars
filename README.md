@@ -66,7 +66,7 @@
 
 ## Go 
 
-- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [andrewarrow/devops](https://github.com/andrewarrow/devops) - This code will setup a new FREE VM on google cloud with postgres, a load balancer, and a web app that can query from the postgres running on localhost.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 
@@ -113,12 +113,9 @@
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
 - [a327ex/SNKRX](https://github.com/a327ex/SNKRX) - A replayable arcade shooter where you control a snake of heroes.
 - [janparkio/love2d-docs](https://github.com/janparkio/love2d-docs) - An easy to follow tutorial for the LÖVE 2D game framework.
-- [zobnin/aiolauncher_scripts](https://github.com/zobnin/aiolauncher_scripts) - Scripts for the AIO Launcher
 
 ## Others 
 
-- [panckreous/awesome-stars](https://github.com/panckreous/awesome-stars) - A curated list of my GitHub stars!
-- [Milkdown/awesome](https://github.com/Milkdown/awesome) - 🍼 A curated list of awesome things related to Milkdown
 - [arcataroger/awesome-engineering-games](https://github.com/arcataroger/awesome-engineering-games) - A curated list of engineering-related video games rated Very Positive or higher on Steam
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
@@ -126,7 +123,6 @@
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 - [LukeYui/EldenRingSeamlessCoopRelease](https://github.com/LukeYui/EldenRingSeamlessCoopRelease) - 
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
 ## PHP 
@@ -136,7 +132,6 @@
 ## Python 
 
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
-- [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal news aggregator and Mastodon client
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [rafaelmardojai/webfont-kit-generator](https://github.com/rafaelmardojai/webfont-kit-generator) - Create @ font-face kits easily
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
@@ -170,6 +165,7 @@
 
 ## TypeScript 
 
+- [obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
 - [felixfbecker/link-preview-sidebar](https://github.com/felixfbecker/link-preview-sidebar) - Browser extension to open links in a sidebar instead of a new tab.
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [thesamim/TickTickSync](https://github.com/thesamim/TickTickSync) - 
@@ -193,7 +189,6 @@
 ## Vue 
 
 - [karakanb/devo](https://github.com/karakanb/devo) - A Chrome and Firefox extension that displays GitHub Trending, Hacker News, Product Hunt and Designer News on every new tab.
-- [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue) - Make your first open-source contribution.
 
 
 ## License
