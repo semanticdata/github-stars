@@ -20,6 +20,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
+- [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
@@ -138,6 +139,10 @@
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 
+## Ruby 
+
+- [Shopify/liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
+
 ## Rust 
 
 - [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
@@ -153,7 +158,7 @@
 
 - [vaibhavvikas/jekyll-theme-minimalistic](https://github.com/vaibhavvikas/jekyll-theme-minimalistic) - A minimal responsive Jekyll theme with navigation in the sidebar and many more amazing features.
 - [justint/papaya](https://github.com/justint/papaya) - A clean Zola theme for blogging and projects.
-- [isunjn/serene](https://github.com/isunjn/serene) - A well-crafted blog theme for zola
+- [isunjn/serene](https://github.com/isunjn/serene) - A blog theme for zola, simple and clean
 
 ## Shell 
 
