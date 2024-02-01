@@ -347,6 +347,7 @@
 
 ## others 
 
+- [Shopify/liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
 - [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Ensure Reddit always loads the old design
 - [obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
@@ -357,7 +358,7 @@
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [victoriadrake/hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam) - A Simple and Minimalist theme for Hugo with a focus on typography and content.
 - [justint/papaya](https://github.com/justint/papaya) - A clean Zola theme for blogging and projects.
-- [isunjn/serene](https://github.com/isunjn/serene) - A well-crafted blog theme for zola
+- [isunjn/serene](https://github.com/isunjn/serene) - A blog theme for zola, simple and clean
 - [jamigibbs/text-revealer-js](https://github.com/jamigibbs/text-revealer-js) - Reveal deeper information about text you highlight on a web page.
 - [AsmrProg-YT/100-days-of-javascript](https://github.com/AsmrProg-YT/100-days-of-javascript) - AsmrProg Youtube Channel 100 days of javascript codes collection
 - [dscharrer/innoextract](https://github.com/dscharrer/innoextract) - A tool to unpack installers created by Inno Setup
