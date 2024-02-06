@@ -216,6 +216,7 @@
 
 ## hacktoberfest 
 
+- [binyamin/eleventy-garden](https://github.com/binyamin/eleventy-garden) - :seedling: A starter site for building a mind garden with eleventy
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
@@ -410,6 +411,7 @@
 
 ## terminal 
 
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 
