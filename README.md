@@ -76,7 +76,6 @@
 ## HTML 
 
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-- [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [jonfranco224/not-my-cows](https://github.com/jonfranco224/not-my-cows) - A canvas game experiment - "Outer space has unleashed its fury! Protect your live stock, your livelihood, your home. It's all you've got left..."
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
@@ -89,6 +88,7 @@
 
 ## JavaScript 
 
+- [dinhanhthi/eleventy-elasticlunr-js](https://github.com/dinhanhthi/eleventy-elasticlunr-js) - A demo of search function in eleventy website using Elasticlunr.js.
 - [binyamin/eleventy-garden](https://github.com/binyamin/eleventy-garden) - :seedling: A starter site for building a mind garden with eleventy
 - [wilmerterrero/Avatartion](https://github.com/wilmerterrero/Avatartion) - Notion-style avatar generator
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
@@ -145,7 +145,6 @@
 ## Rust 
 
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-- [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -169,6 +168,8 @@
 
 ## TypeScript 
 
+- [Leonezz/obsidian-tasks-calendar-wrapper](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper) - This plugin currently provides a timeline view to display your tasks from your obsidian valut, with customizable filters and renderring options.
+- [davish/obsidian-full-calendar](https://github.com/davish/obsidian-full-calendar) - Keep events and manage your calendar alongside all your other notes in your Obsidian Vault.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
 - [obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
