@@ -17,6 +17,7 @@
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
@@ -62,6 +63,7 @@
 
 ## CSS 
 
+- [Andy-set-studio/CUBE-with-tailwind](https://github.com/Andy-set-studio/CUBE-with-tailwind) - 
 - [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime) - A dark/light theme for Obsidian
 - [HW9636/DarkNebulaObsidianTheme](https://github.com/HW9636/DarkNebulaObsidianTheme) - Obsidian Theme
 - [madrilene/eleventy-excellent](https://github.com/madrilene/eleventy-excellent) - Eleventy starter based on the workflow suggested by Andy Bell's buildexcellentwebsit.es.
@@ -115,6 +117,10 @@
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
 - [a327ex/SNKRX](https://github.com/a327ex/SNKRX) - A replayable arcade shooter where you control a snake of heroes.
+
+## Nunjucks 
+
+- [scottsweb/elva](https://github.com/scottsweb/elva) - ✅ A multilingual, clean, green 11ty starter theme.
 
 ## Others 
 
