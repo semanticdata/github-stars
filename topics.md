@@ -63,6 +63,7 @@
 - [server](#server)
 - [software](#software)
 - [svelte](#svelte)
+- [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [typescript](#typescript)
 - [vim](#vim)
@@ -411,6 +412,10 @@
 ## svelte 
 
 - [kyle-n/WebExtensionTemplate](https://github.com/kyle-n/WebExtensionTemplate) - Create a browser extension for Chrome, Firefox and Safari in no time.
+
+## tensorflow 
+
+- [sjvasquez/handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs ✏️
 
 ## terminal 
 
