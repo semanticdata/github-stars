@@ -65,7 +65,7 @@
 
 - [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS.
 - [Andy-set-studio/CUBE-with-tailwind](https://github.com/Andy-set-studio/CUBE-with-tailwind) - 
-- [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime) - A dark/light theme for Obsidian
+- [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime) - A dark/light theme for Obsidian.
 - [HW9636/DarkNebulaObsidianTheme](https://github.com/HW9636/DarkNebulaObsidianTheme) - Obsidian Theme
 - [madrilene/eleventy-excellent](https://github.com/madrilene/eleventy-excellent) - Eleventy starter based on the workflow suggested by Andy Bell's buildexcellentwebsit.es.
 - [jakeswenson/zola-just-the-docs](https://github.com/jakeswenson/zola-just-the-docs) - Just The Docs ported from Jekyll to Zola
