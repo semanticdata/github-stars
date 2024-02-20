@@ -164,6 +164,7 @@
 
 ## SCSS 
 
+- [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [vaibhavvikas/jekyll-theme-minimalistic](https://github.com/vaibhavvikas/jekyll-theme-minimalistic) - A minimal responsive Jekyll theme with navigation in the sidebar and many more amazing features.
 - [justint/papaya](https://github.com/justint/papaya) - A clean Zola theme for blogging and projects.
 - [isunjn/serene](https://github.com/isunjn/serene) - A blog theme for zola, simple and clean
