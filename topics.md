@@ -49,6 +49,7 @@
 - [lua](#lua)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [microsoft](#microsoft)
 - [music](#music)
 - [neovim](#neovim)
 - [nextjs](#nextjs)
@@ -56,6 +57,7 @@
 - [others](#others)
 - [p2p](#p2p)
 - [php](#php)
+- [powershell](#powershell)
 - [privacy](#privacy)
 - [project-management](#project-management)
 - [python](#python)
@@ -72,6 +74,7 @@
 - [terminal](#terminal)
 - [typescript](#typescript)
 - [vim](#vim)
+- [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
 - [web](#web)
 - [web-development](#web-development)
@@ -108,6 +111,10 @@
 
 ## awesome 
 
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
+- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
+- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
+- [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
 - [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [arcataroger/awesome-engineering-games](https://github.com/arcataroger/awesome-engineering-games) - A curated list of engineering-related video games rated Very Positive or higher on Steam
@@ -116,6 +123,9 @@
 
 ## awesome-list 
 
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
+- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
+- [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
 - [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -324,6 +334,11 @@
 
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 
+## microsoft 
+
+- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
+- [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
+
 ## music 
 
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
@@ -345,6 +360,12 @@
 
 ## others 
 
+- [Moarram/headline](https://github.com/Moarram/headline) - Responsive ZSH theme featuring Git status information and a colored line above the prompt
+- [zthxxx/jovial](https://github.com/zthxxx/jovial) - Jovial - A lovely zsh theme with responsive-design, it's pretty fast, keep simple but useful
+- [nothingislost/obsidian-workspaces-plus](https://github.com/nothingislost/obsidian-workspaces-plus) - Quickly switch and manage Obsidian workspaces
+- [andrewmcgivery/obsidian-soundscapes](https://github.com/andrewmcgivery/obsidian-soundscapes) - A plugin for Obsidian.MD that adds a music/ambiance player to the status bar to play Lofi beats, nature sounds, ambiance, relaxing music, and more.
+- [axcore/tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
+- [replete/obsidian-minimal-theme-css-snippets](https://github.com/replete/obsidian-minimal-theme-css-snippets) - Obsidian CSS snippets to tweak UI and harmonize various plugins with the Minimal Theme - for fellow hackers.
 - [danmarshall/google-font-to-svg-path](https://github.com/danmarshall/google-font-to-svg-path) - Create an SVG path from a Google font
 - [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS.
 - [Andy-set-studio/CUBE-with-tailwind](https://github.com/Andy-set-studio/CUBE-with-tailwind) - 
@@ -390,6 +411,10 @@
 ## php 
 
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
+
+## powershell 
+
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 
 ## privacy 
 
@@ -471,6 +496,10 @@
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 
+## visual-studio-code 
+
+- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
+
 ## vue 
 
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -491,6 +520,7 @@
 
 ## windows 
 
+- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [ChrisAnd1998/TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Center Windows taskbar icons with a variety of animations and options.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🇵🇸
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
