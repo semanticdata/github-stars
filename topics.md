@@ -360,6 +360,10 @@
 
 ## others 
 
+- [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.
+- [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
+- [matthiasott/eleventy-plus-vite](https://github.com/matthiasott/eleventy-plus-vite) - A clean and fast Eleventy Starter Project with Vite
+- [marcamos/jet](https://github.com/marcamos/jet) - It‘s (j)ust (e)leventy and (t)ailwind … OK, and a few other things; it‘s still *really* small though.
 - [Moarram/headline](https://github.com/Moarram/headline) - Responsive ZSH theme featuring Git status information and a colored line above the prompt
 - [zthxxx/jovial](https://github.com/zthxxx/jovial) - Jovial - A lovely zsh theme with responsive-design, it's pretty fast, keep simple but useful
 - [nothingislost/obsidian-workspaces-plus](https://github.com/nothingislost/obsidian-workspaces-plus) - Quickly switch and manage Obsidian workspaces
