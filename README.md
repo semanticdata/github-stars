@@ -35,6 +35,7 @@
 ## Astro 
 
 - [0xShapeShifter/essentialist](https://github.com/0xShapeShifter/essentialist) - — a single page essentialist template with unlimited use cases
+- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
 ## Batchfile 
 
@@ -128,6 +129,7 @@
 
 ## Nunjucks 
 
+- [jeremydaly/eleventy-tailwind-template](https://github.com/jeremydaly/eleventy-tailwind-template) - Starter template for building Eleventy static sites with Tailwind CSS automatically generating the corresponding styles and writing them to a static CSS file.
 - [scottsweb/elva](https://github.com/scottsweb/elva) - ✅ A multilingual, clean, green 11ty starter theme.
 
 ## Others 
@@ -140,7 +142,6 @@
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 - [theletterf/english-lang](https://github.com/theletterf/english-lang) - The English Programming Language
 - [LukeYui/EldenRingSeamlessCoopRelease](https://github.com/LukeYui/EldenRingSeamlessCoopRelease) - 
-- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
 ## PHP 
 
@@ -177,6 +178,7 @@
 
 ## SCSS 
 
+- [rothsandro/eleventy-notes](https://github.com/rothsandro/eleventy-notes) - A template for Eleventy to publish your personal notes or docs.
 - [matthiasott/eleventy-plus-vite](https://github.com/matthiasott/eleventy-plus-vite) - A clean and fast Eleventy Starter Project with Vite
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [vaibhavvikas/jekyll-theme-minimalistic](https://github.com/vaibhavvikas/jekyll-theme-minimalistic) - A minimal responsive Jekyll theme with navigation in the sidebar and many more amazing features.
@@ -195,6 +197,8 @@
 
 ## TypeScript 
 
+- [pnpm/action-setup](https://github.com/pnpm/action-setup) - Install pnpm package manager
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
 - [nothingislost/obsidian-workspaces-plus](https://github.com/nothingislost/obsidian-workspaces-plus) - Quickly switch and manage Obsidian workspaces
 - [andrewmcgivery/obsidian-soundscapes](https://github.com/andrewmcgivery/obsidian-soundscapes) - A plugin for Obsidian.MD that adds a music/ambiance player to the status bar to play Lofi beats, nature sounds, ambiance, relaxing music, and more.
