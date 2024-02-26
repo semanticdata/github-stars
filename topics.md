@@ -26,6 +26,7 @@
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
 - [font](#font)
+- [frontend](#frontend)
 - [game](#game)
 - [game-development](#game-development)
 - [gamedev](#gamedev)
@@ -54,6 +55,7 @@
 - [neovim](#neovim)
 - [nextjs](#nextjs)
 - [node](#node)
+- [nodejs](#nodejs)
 - [others](#others)
 - [p2p](#p2p)
 - [php](#php)
@@ -203,6 +205,10 @@
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [rafaelmardojai/webfont-kit-generator](https://github.com/rafaelmardojai/webfont-kit-generator) - Create @ font-face kits easily
+
+## frontend 
+
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 
 ## game 
 
@@ -358,8 +364,14 @@
 
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 
+## nodejs 
+
+- [pnpm/action-setup](https://github.com/pnpm/action-setup) - Install pnpm package manager
+
 ## others 
 
+- [rothsandro/eleventy-notes](https://github.com/rothsandro/eleventy-notes) - A template for Eleventy to publish your personal notes or docs.
+- [jeremydaly/eleventy-tailwind-template](https://github.com/jeremydaly/eleventy-tailwind-template) - Starter template for building Eleventy static sites with Tailwind CSS automatically generating the corresponding styles and writing them to a static CSS file.
 - [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.
 - [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
 - [matthiasott/eleventy-plus-vite](https://github.com/matthiasott/eleventy-plus-vite) - A clean and fast Eleventy Starter Project with Vite
