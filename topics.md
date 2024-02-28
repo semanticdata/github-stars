@@ -48,6 +48,7 @@
 - [language](#language)
 - [linux](#linux)
 - [lua](#lua)
+- [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [microsoft](#microsoft)
@@ -56,6 +57,8 @@
 - [nextjs](#nextjs)
 - [node](#node)
 - [nodejs](#nodejs)
+- [npm](#npm)
+- [opengl](#opengl)
 - [others](#others)
 - [p2p](#p2p)
 - [php](#php)
@@ -231,6 +234,7 @@
 
 ## github 
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [karakanb/devo](https://github.com/karakanb/devo) - A Chrome and Firefox extension that displays GitHub Trending, Hacker News, Product Hunt and Designer News on every new tab.
@@ -316,6 +320,7 @@
 
 ## linux 
 
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 
 ## lua 
@@ -325,6 +330,10 @@
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
 - [a327ex/SNKRX](https://github.com/a327ex/SNKRX) - A replayable arcade shooter where you control a snake of heroes.
+
+## macos 
+
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 
 ## markdown 
 
@@ -367,6 +376,14 @@
 ## nodejs 
 
 - [pnpm/action-setup](https://github.com/pnpm/action-setup) - Install pnpm package manager
+
+## npm 
+
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
+
+## opengl 
+
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 
 ## others 
 
@@ -462,6 +479,7 @@
 
 ## rust 
 
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [jakeswenson/zola-just-the-docs](https://github.com/jakeswenson/zola-just-the-docs) - Just The Docs ported from Jekyll to Zola
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -495,6 +513,7 @@
 
 ## terminal 
 
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
@@ -537,6 +556,7 @@
 
 ## windows 
 
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [ChrisAnd1998/TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Center Windows taskbar icons with a variety of animations and options.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
