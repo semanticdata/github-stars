@@ -116,6 +116,7 @@
 
 ## awesome 
 
+- [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
@@ -128,6 +129,7 @@
 
 ## awesome-list 
 
+- [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
@@ -290,6 +292,7 @@
 
 ## javascript 
 
+- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [dinhanhthi/eleventy-elasticlunr-js](https://github.com/dinhanhthi/eleventy-elasticlunr-js) - A demo of search function in eleventy website using Elasticlunr.js.
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
@@ -337,6 +340,7 @@
 
 ## markdown 
 
+- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
 - [madrilene/eleventy-excellent](https://github.com/madrilene/eleventy-excellent) - Eleventy starter based on the workflow suggested by Andy Bell's buildexcellentwebsit.es.
@@ -375,6 +379,7 @@
 
 ## nodejs 
 
+- [harttle/liquidjs](https://github.com/harttle/liquidjs) - A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
 - [pnpm/action-setup](https://github.com/pnpm/action-setup) - Install pnpm package manager
 
 ## npm 
@@ -387,6 +392,7 @@
 
 ## others 
 
+- [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [cweijan/vscode-office](https://github.com/cweijan/vscode-office) - 让VSCode支持预览PDF,Exce和Word等格式, 并增加markdown所见即所得编辑器
 - [rothsandro/eleventy-notes](https://github.com/rothsandro/eleventy-notes) - A template for Eleventy to publish your personal notes or docs.
 - [jeremydaly/eleventy-tailwind-template](https://github.com/jeremydaly/eleventy-tailwind-template) - Starter template for building Eleventy static sites with Tailwind CSS automatically generating the corresponding styles and writing them to a static CSS file.
@@ -410,7 +416,6 @@
 - [HW9636/DarkNebulaObsidianTheme](https://github.com/HW9636/DarkNebulaObsidianTheme) - Obsidian Theme
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [wilmerterrero/Avatartion](https://github.com/wilmerterrero/Avatartion) - Notion-style avatar generator
-- [Shopify/liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
 - [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Ensure Reddit always loads the old design
 - [obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
 - [thesamim/TickTickSync](https://github.com/thesamim/TickTickSync) - 
@@ -514,7 +519,6 @@
 ## terminal 
 
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 
