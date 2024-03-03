@@ -407,6 +407,7 @@
 
 ## others 
 
+- [weather-gov/weather.gov](https://github.com/weather-gov/weather.gov) - weather.gov 2.0
 - [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [cweijan/vscode-office](https://github.com/cweijan/vscode-office) - 让VSCode支持预览PDF,Exce和Word等格式, 并增加markdown所见即所得编辑器
 - [rothsandro/eleventy-notes](https://github.com/rothsandro/eleventy-notes) - A template for Eleventy to publish your personal notes or docs.
