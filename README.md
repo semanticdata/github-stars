@@ -80,7 +80,7 @@
 
 ## HTML 
 
-- [marcamos/jet](https://github.com/marcamos/jet) - It‘s (j)ust (e)leventy and (t)ailwind … OK, and a few other things; it‘s still *really* small though.
+- [NikitaZanella/11ty-SASS](https://github.com/NikitaZanella/11ty-SASS) - Eleventy (11ty) Starter template with SASS - Nightmode ready
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [jonfranco224/not-my-cows](https://github.com/jonfranco224/not-my-cows) - A canvas game experiment - "Outer space has unleashed its fury! Protect your live stock, your livelihood, your home. It's all you've got left..."
@@ -133,7 +133,6 @@
 
 ## Nunjucks 
 
-- [jeremydaly/eleventy-tailwind-template](https://github.com/jeremydaly/eleventy-tailwind-template) - Starter template for building Eleventy static sites with Tailwind CSS automatically generating the corresponding styles and writing them to a static CSS file.
 - [scottsweb/elva](https://github.com/scottsweb/elva) - ✅ A multilingual, clean, green 11ty starter theme.
 
 ## Others 
