@@ -23,6 +23,7 @@
 - [design](#design)
 - [django](#django)
 - [emacs](#emacs)
+- [es6](#es6)
 - [eslint](#eslint)
 - [firefox](#firefox)
 - [flutter](#flutter)
@@ -60,6 +61,7 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
+- [open-source](#open-source)
 - [opengl](#opengl)
 - [others](#others)
 - [p2p](#p2p)
@@ -156,6 +158,7 @@
 
 ## chrome 
 
+- [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
 - [kyle-n/WebExtensionTemplate](https://github.com/kyle-n/WebExtensionTemplate) - Create a browser extension for Chrome, Firefox and Safari in no time.
 
 ## chrome-extension 
@@ -177,6 +180,7 @@
 
 ## css 
 
+- [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [madrilene/eleventy-excellent](https://github.com/madrilene/eleventy-excellent) - Eleventy starter based on the workflow suggested by Andy Bell's buildexcellentwebsit.es.
@@ -199,6 +203,10 @@
 ## emacs 
 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, offline (e.g mistral) LLMs. Self-host locally 
+
+## es6 
+
+- [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
 
 ## eslint 
 
@@ -230,6 +238,7 @@
 
 ## game 
 
+- [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [jonfranco224/not-my-cows](https://github.com/jonfranco224/not-my-cows) - A canvas game experiment - "Outer space has unleashed its fury! Protect your live stock, your livelihood, your home. It's all you've got left..."
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
@@ -288,10 +297,12 @@
 
 ## html 
 
+- [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
 ## html5 
 
+- [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
 - [jonfranco224/not-my-cows](https://github.com/jonfranco224/not-my-cows) - A canvas game experiment - "Outer space has unleashed its fury! Protect your live stock, your livelihood, your home. It's all you've got left..."
 
 ## java 
@@ -305,6 +316,7 @@
 
 ## javascript 
 
+- [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [dinhanhthi/eleventy-elasticlunr-js](https://github.com/dinhanhthi/eleventy-elasticlunr-js) - A demo of search function in eleventy website using Elasticlunr.js.
@@ -400,6 +412,10 @@
 ## npm 
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
+
+## open-source 
+
+- [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
 
 ## opengl 
 
