@@ -80,6 +80,7 @@
 
 ## HTML 
 
+- [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
 - [NikitaZanella/11ty-SASS](https://github.com/NikitaZanella/11ty-SASS) - Eleventy (11ty) Starter template with SASS - Nightmode ready
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
