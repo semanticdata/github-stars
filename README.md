@@ -33,7 +33,7 @@
 
 ## Astro 
 
-- [0xShapeShifter/essentialist](https://github.com/0xShapeShifter/essentialist) - — a single page essentialist template with unlimited use cases
+- [essens-cc/essentialist](https://github.com/essens-cc/essentialist) - — a single page essentialist template with unlimited use cases
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
 ## Batchfile 
