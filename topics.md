@@ -197,7 +197,7 @@
 
 ## design 
 
-- [0xShapeShifter/essentialist](https://github.com/0xShapeShifter/essentialist) - — a single page essentialist template with unlimited use cases
+- [essens-cc/essentialist](https://github.com/essens-cc/essentialist) - — a single page essentialist template with unlimited use cases
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 
 ## django 
@@ -610,7 +610,7 @@
 
 ## web 
 
-- [0xShapeShifter/essentialist](https://github.com/0xShapeShifter/essentialist) - — a single page essentialist template with unlimited use cases
+- [essens-cc/essentialist](https://github.com/essens-cc/essentialist) - — a single page essentialist template with unlimited use cases
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.
 - [rafaelmardojai/webfont-kit-generator](https://github.com/rafaelmardojai/webfont-kit-generator) - Create @ font-face kits easily
 
