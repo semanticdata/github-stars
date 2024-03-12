@@ -33,6 +33,7 @@
 - [game](#game)
 - [game-development](#game-development)
 - [gamedev](#gamedev)
+- [git](#git)
 - [github](#github)
 - [go](#go)
 - [google-cloud](#google-cloud)
@@ -260,8 +261,13 @@
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
 - [a327ex/SNKRX](https://github.com/a327ex/SNKRX) - A replayable arcade shooter where you control a snake of heroes.
 
+## git 
+
+- [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
+
 ## github 
 
+- [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
@@ -432,6 +438,9 @@
 
 ## others 
 
+- [matthiasott/README-template](https://github.com/matthiasott/README-template) - A template for a project README
+- [vrtmrz/diffzip](https://github.com/vrtmrz/diffzip) - 
+- [ryanpcmcquen/obsidian-dropbox-backups](https://github.com/ryanpcmcquen/obsidian-dropbox-backups) - Automated backups to Dropbox for Obsidian.
 - [11ty/eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
 - [NikitaZanella/11ty-SASS](https://github.com/NikitaZanella/11ty-SASS) - Eleventy (11ty) Starter template with SASS - Nightmode ready
 - [weather-gov/weather.gov](https://github.com/weather-gov/weather.gov) - weather.gov 2.0
