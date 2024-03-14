@@ -438,11 +438,13 @@
 
 ## others 
 
+- [githrdw/vsc-home](https://github.com/githrdw/vsc-home) - 🏡 for dashboards in VS Code
+- [adamstddrd/grease](https://github.com/adamstddrd/grease) - 
+- [tk04/Marker](https://github.com/tk04/Marker) - A Desktop App for Easily Viewing and Editing Markdown Files
 - [matthiasott/README-template](https://github.com/matthiasott/README-template) - A template for a project README
 - [vrtmrz/diffzip](https://github.com/vrtmrz/diffzip) - 
 - [ryanpcmcquen/obsidian-dropbox-backups](https://github.com/ryanpcmcquen/obsidian-dropbox-backups) - Automated backups to Dropbox for Obsidian.
 - [11ty/eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
-- [NikitaZanella/11ty-SASS](https://github.com/NikitaZanella/11ty-SASS) - Eleventy (11ty) Starter template with SASS - Nightmode ready
 - [weather-gov/weather.gov](https://github.com/weather-gov/weather.gov) - weather.gov 2.0
 - [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [cweijan/vscode-office](https://github.com/cweijan/vscode-office) - 让VSCode支持预览PDF,Exce和Word等格式, 并增加markdown所见即所得编辑器
