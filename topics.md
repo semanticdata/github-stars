@@ -438,9 +438,9 @@
 
 ## others 
 
+- [maks/MGit](https://github.com/maks/MGit) - A Git client for Android.
 - [githrdw/vsc-home](https://github.com/githrdw/vsc-home) - 🏡 for dashboards in VS Code
 - [adamstddrd/grease](https://github.com/adamstddrd/grease) - 
-- [tk04/Marker](https://github.com/tk04/Marker) - A Desktop App for Easily Viewing and Editing Markdown Files
 - [matthiasott/README-template](https://github.com/matthiasott/README-template) - A template for a project README
 - [vrtmrz/diffzip](https://github.com/vrtmrz/diffzip) - 
 - [ryanpcmcquen/obsidian-dropbox-backups](https://github.com/ryanpcmcquen/obsidian-dropbox-backups) - Automated backups to Dropbox for Obsidian.
@@ -599,6 +599,7 @@
 
 ## typescript 
 
+- [tk04/Marker](https://github.com/tk04/Marker) - A Desktop App for Easily Viewing and Editing Markdown Files
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [kyle-n/WebExtensionTemplate](https://github.com/kyle-n/WebExtensionTemplate) - Create a browser extension for Chrome, Firefox and Safari in no time.
