@@ -13,6 +13,7 @@
 - [chrome-extension](#chrome-extension)
 - [cpp](#cpp)
 - [css](#css)
+- [cybersecurity](#cybersecurity)
 - [design](#design)
 - [es6](#es6)
 - [game](#game)
@@ -43,12 +44,14 @@
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [software](#software)
+- [svelte](#svelte)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
+- [vue](#vue)
 - [web](#web)
 - [webapp](#webapp)
 - [windows](#windows)
@@ -97,6 +100,10 @@
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
+
+## cybersecurity 
+
+- [disclose/research-threats](https://github.com/disclose/research-threats) - Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg
 
 ## design 
 
@@ -204,6 +211,8 @@
 
 ## others 
 
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+- [ValentinViennot/np-obsidian-index-wikilinks](https://github.com/ValentinViennot/np-obsidian-index-wikilinks) - Transform an Obsidian vault into an index.json file with wikilinks indexes and backlinks
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
 - [andrewmcgivery/obsidian-soundscapes](https://github.com/andrewmcgivery/obsidian-soundscapes) - A plugin for Obsidian.MD that adds a music/ambiance player to the status bar to play Lofi beats, nature sounds, ambiance, relaxing music, and more.
@@ -244,6 +253,7 @@
 
 ## react 
 
+- [slinkity/slinkity](https://github.com/slinkity/slinkity) - To eleventy and beyond! The all-in-one tool for templates where you want them, component frameworks where you need them 🚀
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [allister-grange/startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -259,6 +269,7 @@
 
 ## security 
 
+- [disclose/research-threats](https://github.com/disclose/research-threats) - Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
 ## self-hosted 
@@ -268,6 +279,10 @@
 ## software 
 
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+
+## svelte 
+
+- [slinkity/slinkity](https://github.com/slinkity/slinkity) - To eleventy and beyond! The all-in-one tool for templates where you want them, component frameworks where you need them 🚀
 
 ## tensorflow 
 
@@ -292,6 +307,10 @@
 ## visual-studio-code 
 
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
+
+## vue 
+
+- [slinkity/slinkity](https://github.com/slinkity/slinkity) - To eleventy and beyond! The all-in-one tool for templates where you want them, component frameworks where you need them 🚀
 
 ## web 
 
