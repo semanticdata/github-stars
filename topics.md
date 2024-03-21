@@ -211,6 +211,8 @@
 
 ## others 
 
+- [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
+- [11ty/webc](https://github.com/11ty/webc) - Single File Web Components
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [ValentinViennot/np-obsidian-index-wikilinks](https://github.com/ValentinViennot/np-obsidian-index-wikilinks) - Transform an Obsidian vault into an index.json file with wikilinks indexes and backlinks
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
