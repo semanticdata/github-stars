@@ -73,6 +73,8 @@
 
 ## JavaScript 
 
+- [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
+- [11ty/webc](https://github.com/11ty/webc) - Single File Web Components
 - [slinkity/slinkity](https://github.com/slinkity/slinkity) - To eleventy and beyond! The all-in-one tool for templates where you want them, component frameworks where you need them 🚀
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [weather-gov/weather.gov](https://github.com/weather-gov/weather.gov) - weather.gov 2.0
