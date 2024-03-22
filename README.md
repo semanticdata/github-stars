@@ -25,6 +25,7 @@
 
 ## Astro 
 
+- [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
 ## Batchfile 
@@ -69,7 +70,7 @@
 ## Java 
 
 - [maks/MGit](https://github.com/maks/MGit) - A Git client for Android.
-- [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages (chat https://gitter.im/AnySoftKeyboard)
+- [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
 
 ## JavaScript 
 
@@ -122,6 +123,7 @@
 
 ## TypeScript 
 
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [ValentinViennot/np-obsidian-index-wikilinks](https://github.com/ValentinViennot/np-obsidian-index-wikilinks) - Transform an Obsidian vault into an index.json file with wikilinks indexes and backlinks
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
