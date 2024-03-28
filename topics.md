@@ -218,6 +218,7 @@
 
 ## others 
 
+- [rothsandro/eleventy-notes](https://github.com/rothsandro/eleventy-notes) - A template for Eleventy to publish your personal notes or docs.
 - [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [11ty/webc](https://github.com/11ty/webc) - Single File Web Components
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
