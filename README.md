@@ -20,6 +20,7 @@
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [Shell](#shell)
 - [TypeScript](#typescript)
 
@@ -116,6 +117,10 @@
 
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+
+## SCSS 
+
+- [rothsandro/eleventy-notes](https://github.com/rothsandro/eleventy-notes) - A template for Eleventy to publish your personal notes or docs.
 
 ## Shell 
 
