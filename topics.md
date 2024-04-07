@@ -15,6 +15,8 @@
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [design](#design)
+- [elixir](#elixir)
+- [emoji](#emoji)
 - [es6](#es6)
 - [game](#game)
 - [game-development](#game-development)
@@ -27,11 +29,13 @@
 - [java](#java)
 - [javascript](#javascript)
 - [language](#language)
+- [linux](#linux)
 - [lua](#lua)
 - [markdown](#markdown)
 - [microsoft](#microsoft)
 - [music](#music)
 - [neovim](#neovim)
+- [nestjs](#nestjs)
 - [nextjs](#nextjs)
 - [node](#node)
 - [open-source](#open-source)
@@ -49,6 +53,7 @@
 - [svelte](#svelte)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
+- [termux](#termux)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [vim](#vim)
@@ -61,6 +66,7 @@
 
 ## android 
 
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 
@@ -111,6 +117,14 @@
 
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 
+## elixir 
+
+- [woutdp/live_svelte](https://github.com/woutdp/live_svelte) - Svelte inside Phoenix LiveView with seamless end-to-end reactivity
+
+## emoji 
+
+- [git-emoji/vscode-extension](https://github.com/git-emoji/vscode-extension) - Suggest context based emojis in VS Code
+
 ## es6 
 
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
@@ -124,16 +138,19 @@
 
 ## game-development 
 
+- [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
 
 ## gamedev 
 
+- [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [jonfranco224/not-my-cows](https://github.com/jonfranco224/not-my-cows) - A canvas game experiment - "Outer space has unleashed its fury! Protect your live stock, your livelihood, your home. It's all you've got left..."
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
 - [a327ex/SNKRX](https://github.com/a327ex/SNKRX) - A replayable arcade shooter where you control a snake of heroes.
 
 ## git 
 
+- [git-emoji/vscode-extension](https://github.com/git-emoji/vscode-extension) - Suggest context based emojis in VS Code
 - [cooperspencer/gickup](https://github.com/cooperspencer/gickup) - 
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 
@@ -146,6 +163,7 @@
 
 ## hacktoberfest 
 
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
@@ -176,8 +194,14 @@
 
 - [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
 
+## linux 
+
+- [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - This is the official repository for the back end of the Andronix app 🚀. Here you can know all the scripts you're installing 😎
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+
 ## lua 
 
+- [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
 - [a327ex/SNKRX](https://github.com/a327ex/SNKRX) - A replayable arcade shooter where you control a snake of heroes.
 
@@ -203,6 +227,10 @@
 
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 
+## nestjs 
+
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+
 ## nextjs 
 
 - [allister-grange/startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)
@@ -218,6 +246,13 @@
 
 ## others 
 
+- [nhoizey/pack11ty](https://github.com/nhoizey/pack11ty) - An heavily opinionated Eleventy template project with Sass
+- [srambach/classbxr](https://github.com/srambach/classbxr) - This project adds a box and the class names around elements for easier debugging and visualization of the HTML/CSS structure
+- [pelya/debian-noroot](https://github.com/pelya/debian-noroot) - Debian running on Android, without rooting your phone
+- [andyesprg/shooter-game-with-love2D](https://github.com/andyesprg/shooter-game-with-love2D) - This is a space game where you have to try to survive to enemies, good luck!
+- [AlexanderKoch-Koch/low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) - 
+- [replete/obsidian-minimal-theme-css-snippets](https://github.com/replete/obsidian-minimal-theme-css-snippets) - Obsidian CSS snippets to tweak UI and harmonize various plugins with the Minimal Theme - for fellow hackers.
+- [jillro/obsidian-cards-view-plugin](https://github.com/jillro/obsidian-cards-view-plugin) - Plugin for Obsidian.md. Displays a card view of your notes.
 - [rothsandro/eleventy-notes](https://github.com/rothsandro/eleventy-notes) - A template for Eleventy to publish your personal notes or docs.
 - [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [11ty/webc](https://github.com/11ty/webc) - Single File Web Components
@@ -297,6 +332,7 @@
 
 ## svelte 
 
+- [woutdp/live_svelte](https://github.com/woutdp/live_svelte) - Svelte inside Phoenix LiveView with seamless end-to-end reactivity
 - [slinkity/slinkity](https://github.com/slinkity/slinkity) - To eleventy and beyond! The all-in-one tool for templates where you want them, component frameworks where you need them 🚀
 
 ## tensorflow 
@@ -305,7 +341,13 @@
 
 ## terminal 
 
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
+
+## termux 
+
+- [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - This is the official repository for the back end of the Andronix app 🚀. Here you can know all the scripts you're installing 😎
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 ## twitter 
 
