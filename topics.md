@@ -246,6 +246,7 @@
 
 ## others 
 
+- [jamigibbs/phantom](https://github.com/jamigibbs/phantom) - A minimalist, responsive portfolio theme for Jekyll with Bootstrap
 - [ashtonmeuser/bookmarklet-platform](https://github.com/ashtonmeuser/bookmarklet-platform) - A platform for distributing JS bookmarklets created from GitHub gists
 - [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
 - [nhoizey/pack11ty](https://github.com/nhoizey/pack11ty) - An heavily opinionated Eleventy template project with Sass
