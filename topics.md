@@ -311,7 +311,7 @@
 - [deadlyjack/Acode](https://github.com/deadlyjack/Acode) - Acode - powerful text/code editor for android
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [theletterf/english-lang](https://github.com/theletterf/english-lang) - The English Programming Language
-- [omsimos/github-stats-generator](https://github.com/omsimos/github-stats-generator) - 📊 Generate your GitHub stats for your README with ease!
+- [omsimos/github-stats](https://github.com/omsimos/github-stats) - 📊 Generate your GitHub stats for your README with ease!
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
 - [fontforge/fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
 - [phazus/lofiatc.sh](https://github.com/phazus/lofiatc.sh) - lofiatc.com but with mpv
