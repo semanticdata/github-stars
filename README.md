@@ -171,7 +171,7 @@
 - [thesamim/TickTickSync](https://github.com/thesamim/TickTickSync) - 
 - [svsool/memo](https://github.com/svsool/memo) - Markdown knowledge base with bidirectional [[link]]s built on top of VSCode
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
-- [omsimos/github-stats-generator](https://github.com/omsimos/github-stats-generator) - 📊 Generate your GitHub stats for your README with ease!
+- [omsimos/github-stats](https://github.com/omsimos/github-stats) - 📊 Generate your GitHub stats for your README with ease!
 - [jackyzha0/tabspace](https://github.com/jackyzha0/tabspace) - ✍️ A scratchspace for your new Tab page
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 
