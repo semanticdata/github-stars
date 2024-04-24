@@ -281,6 +281,9 @@
 
 ## others 
 
+- [lewisje/awesome-bookmarklets](https://github.com/lewisje/awesome-bookmarklets) - Awesome collection of helpful bookmarklets
+- [DrummerHead/CSS-inject](https://github.com/DrummerHead/CSS-inject) - CSS focused Bookmarklet generator. Modify the layout and looks of a site on the fly.
+- [DrummerHead/JS-Inject](https://github.com/DrummerHead/JS-Inject) - Fast way to create bookmarklets, inject jQuery on the fly also
 - [bradfrost/style-guide-guide](https://github.com/bradfrost/style-guide-guide) - A boilerplate for creating your own custom style guide
 - [jamigibbs/phantom](https://github.com/jamigibbs/phantom) - A minimalist, responsive portfolio theme for Jekyll with Bootstrap
 - [ashtonmeuser/bookmarklet-platform](https://github.com/ashtonmeuser/bookmarklet-platform) - A platform for distributing JS bookmarklets created from GitHub gists
