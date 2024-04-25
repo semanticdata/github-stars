@@ -24,6 +24,7 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [TypeScript](#typescript)
 
 ## Astro 
@@ -74,6 +75,7 @@
 
 ## Go 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [cooperspencer/gickup](https://github.com/cooperspencer/gickup) - 
 
 ## HTML 
@@ -158,8 +160,14 @@
 - [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - This is the official repository for the back end of the Andronix app 🚀. Here you can know all the scripts you're installing 😎
 - [phazus/lofiatc.sh](https://github.com/phazus/lofiatc.sh) - lofiatc.com but with mpv
 
+## Svelte 
+
+- [your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
+
 ## TypeScript 
 
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
+- [alincoop/obsidian-tinychart](https://github.com/alincoop/obsidian-tinychart) - Dead simple ASCII charts for Obsidian.
 - [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format.
 - [git-emoji/vscode-extension](https://github.com/git-emoji/vscode-extension) - Suggest context based emojis in VS Code
 - [jillro/obsidian-cards-view-plugin](https://github.com/jillro/obsidian-cards-view-plugin) - Plugin for Obsidian.md. Displays a card view of your notes.
