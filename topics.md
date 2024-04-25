@@ -5,10 +5,12 @@
 
 ## Contents
 
+- [ai](#ai)
 - [android](#android)
 - [api](#api)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cpp](#cpp)
@@ -25,7 +27,9 @@
 - [gamedev](#gamedev)
 - [git](#git)
 - [github](#github)
+- [go](#go)
 - [godot](#godot)
+- [golang](#golang)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [html5](#html5)
@@ -70,6 +74,11 @@
 - [windows](#windows)
 - [wordpress](#wordpress)
 
+## ai 
+
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
+- [your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
+
 ## android 
 
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -99,6 +108,11 @@
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+
+## chatgpt 
+
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
+- [your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
 
 ## chrome 
 
@@ -185,10 +199,18 @@
 - [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 
+## go 
+
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+
 ## godot 
 
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
+
+## golang 
+
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 
 ## hacktoberfest 
 
@@ -276,11 +298,13 @@
 
 ## open-source 
 
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
 
 ## others 
 
+- [alincoop/obsidian-tinychart](https://github.com/alincoop/obsidian-tinychart) - Dead simple ASCII charts for Obsidian.
 - [lewisje/awesome-bookmarklets](https://github.com/lewisje/awesome-bookmarklets) - Awesome collection of helpful bookmarklets
 - [DrummerHead/CSS-inject](https://github.com/DrummerHead/CSS-inject) - CSS focused Bookmarklet generator. Modify the layout and looks of a site on the fly.
 - [DrummerHead/JS-Inject](https://github.com/DrummerHead/JS-Inject) - Fast way to create bookmarklets, inject jQuery on the fly also
@@ -419,6 +443,7 @@
 
 ## visual-studio-code 
 
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 
 ## vue 
