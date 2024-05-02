@@ -129,6 +129,7 @@
 
 ## css 
 
+- [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
