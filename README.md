@@ -166,6 +166,7 @@
 
 ## TypeScript 
 
+- [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
 - [alincoop/obsidian-tinychart](https://github.com/alincoop/obsidian-tinychart) - Dead simple ASCII charts for Obsidian.
