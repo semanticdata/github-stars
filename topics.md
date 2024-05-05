@@ -305,6 +305,7 @@
 
 ## others 
 
+- [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
 - [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React
 - [alincoop/obsidian-tinychart](https://github.com/alincoop/obsidian-tinychart) - Dead simple ASCII charts for Obsidian.
 - [lewisje/awesome-bookmarklets](https://github.com/lewisje/awesome-bookmarklets) - Awesome collection of helpful bookmarklets
