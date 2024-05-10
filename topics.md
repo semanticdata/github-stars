@@ -9,6 +9,7 @@
 - [android](#android)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [bash](#bash)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -22,12 +23,14 @@
 - [emoji](#emoji)
 - [es6](#es6)
 - [firefox](#firefox)
+- [font](#font)
 - [game](#game)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
 - [git](#git)
 - [github](#github)
+- [github-api](#github-api)
 - [go](#go)
 - [godot](#godot)
 - [golang](#golang)
@@ -50,7 +53,9 @@
 - [node](#node)
 - [open-source](#open-source)
 - [others](#others)
+- [php](#php)
 - [pixel-art](#pixel-art)
+- [powershell](#powershell)
 - [privacy](#privacy)
 - [project-management](#project-management)
 - [pwa](#pwa)
@@ -58,10 +63,12 @@
 - [react](#react)
 - [reactjs](#reactjs)
 - [redux](#redux)
+- [rest-api](#rest-api)
 - [rust](#rust)
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [server](#server)
+- [shell](#shell)
 - [software](#software)
 - [svelte](#svelte)
 - [tensorflow](#tensorflow)
@@ -106,6 +113,10 @@
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+
+## bash 
+
+- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 
 ## chatgpt 
 
@@ -168,6 +179,10 @@
 - [M4hbod/Better-New-Tab](https://github.com/M4hbod/Better-New-Tab) - New tab with Tokyo Night theme and Search Bar
 - [yuuushio/Browser-Startpage](https://github.com/yuuushio/Browser-Startpage) - Elevate your new tab: aesthetically pleasing, customizable startpage.
 
+## font 
+
+- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
+
 ## game 
 
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
@@ -203,9 +218,16 @@
 
 ## github 
 
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
+- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
+- [leviarista/github-profile-header-generator](https://github.com/leviarista/github-profile-header-generator) - A header image generator for your Github profile Readme
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
+
+## github-api 
+
+- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 
 ## go 
 
@@ -222,6 +244,7 @@
 
 ## hacktoberfest 
 
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
@@ -277,6 +300,7 @@
 
 ## markdown 
 
+- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [jrblevin/markdown-mode](https://github.com/jrblevin/markdown-mode) - Emacs Markdown Mode
 - [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format.
 - [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme
@@ -320,6 +344,8 @@
 
 ## others 
 
+- [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights) - Google lighthouse stats of your website that you can put in readme
+- [banner-maker/banner-maker](https://github.com/banner-maker/banner-maker) - 🎨 Make your own banner
 - [nonnullish/todo](https://github.com/nonnullish/todo) - you either die a hero or live long enough to see yourself become the villain
 - [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
 - [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React
@@ -368,9 +394,17 @@
 - [tobloef/text2mindmap](https://github.com/tobloef/text2mindmap) - Online tool for making mindmaps by writing indented lists
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 
+## php 
+
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
+
 ## pixel-art 
 
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
+
+## powershell 
+
+- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 
 ## privacy 
 
@@ -405,6 +439,10 @@
 
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 
+## rest-api 
+
+- [darkterminal/create-banner-image](https://github.com/darkterminal/create-banner-image) - An easy way to make banners from articles that you make with only 1 step!
+
 ## rust 
 
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
@@ -423,6 +461,10 @@
 
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 
+## shell 
+
+- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
+
 ## software 
 
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
@@ -438,6 +480,7 @@
 
 ## terminal 
 
+- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
 
