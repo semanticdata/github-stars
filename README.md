@@ -166,7 +166,6 @@
 
 ## SCSS 
 
-- [HermanMartinus/valley-view](https://github.com/HermanMartinus/valley-view) - 
 - [nhoizey/pack11ty](https://github.com/nhoizey/pack11ty) - An heavily opinionated Eleventy template project with Sass
 - [rothsandro/eleventy-notes](https://github.com/rothsandro/eleventy-notes) - A template for Eleventy to publish your personal notes or docs.
 
