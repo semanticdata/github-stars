@@ -354,6 +354,7 @@
 
 ## others 
 
+- [WebdevShefali/CheatSheets](https://github.com/WebdevShefali/CheatSheets) - 
 - [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights) - Google lighthouse stats of your website that you can put in readme
 - [banner-maker/banner-maker](https://github.com/banner-maker/banner-maker) - 🎨 Make your own banner
 - [nonnullish/todo](https://github.com/nonnullish/todo) - you either die a hero or live long enough to see yourself become the villain
