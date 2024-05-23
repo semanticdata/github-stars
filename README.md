@@ -100,6 +100,7 @@
 
 ## JavaScript 
 
+- [gautamkrishnar/keepalive-workflow](https://github.com/gautamkrishnar/keepalive-workflow) - GitHub action to prevent GitHub from suspending your cronjob based triggers due to repository inactivity
 - [leviarista/github-profile-header-generator](https://github.com/leviarista/github-profile-header-generator) - A header image generator for your Github profile Readme
 - [banner-maker/banner-maker](https://github.com/banner-maker/banner-maker) - 🎨 Make your own banner
 - [darkterminal/create-banner-image](https://github.com/darkterminal/create-banner-image) - An easy way to make banners from articles that you make with only 1 step!
