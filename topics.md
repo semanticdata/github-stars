@@ -375,7 +375,6 @@
 - [banner-maker/banner-maker](https://github.com/banner-maker/banner-maker) - 🎨 Make your own banner
 - [nonnullish/todo](https://github.com/nonnullish/todo) - you either die a hero or live long enough to see yourself become the villain
 - [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
-- [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React
 - [alincoop/obsidian-tinychart](https://github.com/alincoop/obsidian-tinychart) - Dead simple ASCII charts for Obsidian.
 - [lewisje/awesome-bookmarklets](https://github.com/lewisje/awesome-bookmarklets) - Awesome collection of helpful bookmarklets
 - [DrummerHead/CSS-inject](https://github.com/DrummerHead/CSS-inject) - CSS focused Bookmarklet generator. Modify the layout and looks of a site on the fly.
