@@ -384,6 +384,7 @@
 
 ## others 
 
+- [dschep/GistMarklets](https://github.com/dschep/GistMarklets) - {}🔖 Easy to use installation page for bookmarklets hosted as gists.
 - [koek67/resume-builder](https://github.com/koek67/resume-builder) - Create a clean, easy to read resume in pure Python.
 - [kjk/edna](https://github.com/kjk/edna) - A developer scratchpad / note taking app
 - [Sheepolution/how-to-love](https://github.com/Sheepolution/how-to-love) - LÖVE tutorials
