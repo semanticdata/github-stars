@@ -59,6 +59,7 @@
 - [nextjs](#nextjs)
 - [node](#node)
 - [open-source](#open-source)
+- [osint](#osint)
 - [others](#others)
 - [php](#php)
 - [pixel-art](#pixel-art)
@@ -402,6 +403,10 @@
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
 
+## osint 
+
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+
 ## others 
 
 - [apankrat/js-noisy-gradient](https://github.com/apankrat/js-noisy-gradient) - Small and fast lib for smoothing visible banding in linear-gradient backgrounds.
@@ -481,6 +486,7 @@
 
 ## privacy 
 
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
 ## project-management 
@@ -528,6 +534,7 @@
 
 ## security 
 
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [disclose/research-threats](https://github.com/disclose/research-threats) - Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
