@@ -127,7 +127,7 @@
 - [twogrey/CoPiBoo---Color-Picker-Bookmarklet](https://github.com/twogrey/CoPiBoo---Color-Picker-Bookmarklet) - A multilingual & responsive color picker bookmarklet
 - [potahtml/mpa-archive](https://github.com/potahtml/mpa-archive) - Crawls a Multi-Page Application to a zip file, serve the Multi-Page Application from the zip file. A MPA archiver. Could be used as a Site Generator
 - [advanced-rest-client/arc-electron](https://github.com/advanced-rest-client/arc-electron) - Advanced REST Client - Desktop application
-- [kjk/edna](https://github.com/kjk/edna) - Note taking app / scratchpad for developers and power users
+- [kjk/edna](https://github.com/kjk/edna) - Note taking app for developers and power users
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [gautamkrishnar/keepalive-workflow](https://github.com/gautamkrishnar/keepalive-workflow) - GitHub action to prevent GitHub from suspending your cronjob based triggers due to repository inactivity
 - [leviarista/github-profile-header-generator](https://github.com/leviarista/github-profile-header-generator) - A header image generator for your Github profile Readme
