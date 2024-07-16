@@ -161,6 +161,7 @@
 
 ## Lua 
 
+- [Jigoku/paddy](https://github.com/Jigoku/paddy) - LÖVE2D -  an onscreen controller display for touch enabled devices
 - [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.
 - [andyesprg/shooter-game-with-love2D](https://github.com/andyesprg/shooter-game-with-love2D) - This is a space game where you have to try to survive to enemies, good luck!
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
