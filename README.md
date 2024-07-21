@@ -122,6 +122,8 @@
 
 ## JavaScript 
 
+- [mattjennings/sveltekit-blog-template](https://github.com/mattjennings/sveltekit-blog-template) - A SvelteKit blog template
+- [VishwaGauravIn/spiffy](https://github.com/VishwaGauravIn/spiffy) - Aesthtically Pleasing Screenshots ✨ Spiffy converts your boring screenshots into aesthetic and beautiful screenshots. Upto 8K download, Custom & AI Background, Shadows, Corners & more.
 - [apankrat/js-noisy-gradient](https://github.com/apankrat/js-noisy-gradient) - Small and fast lib for smoothing visible banding in linear-gradient backgrounds.
 - [apankrat/writing](https://github.com/apankrat/writing) - Writing is a lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported).
 - [twogrey/CoPiBoo---Color-Picker-Bookmarklet](https://github.com/twogrey/CoPiBoo---Color-Picker-Bookmarklet) - A multilingual & responsive color picker bookmarklet
