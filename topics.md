@@ -175,6 +175,7 @@
 
 ## css 
 
+- [VishwaGauravIn/spiffy](https://github.com/VishwaGauravIn/spiffy) - Aesthtically Pleasing Screenshots ✨ Spiffy converts your boring screenshots into aesthetic and beautiful screenshots. Upto 8K download, Custom & AI Background, Shadows, Corners & more.
 - [rilwis/bamboo](https://github.com/rilwis/bamboo) - A classless CSS utility for your HTML
 - [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
@@ -189,6 +190,7 @@
 
 ## design 
 
+- [VishwaGauravIn/spiffy](https://github.com/VishwaGauravIn/spiffy) - Aesthtically Pleasing Screenshots ✨ Spiffy converts your boring screenshots into aesthetic and beautiful screenshots. Upto 8K download, Custom & AI Background, Shadows, Corners & more.
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 
 ## electron 
@@ -305,6 +307,7 @@
 
 ## html 
 
+- [VishwaGauravIn/spiffy](https://github.com/VishwaGauravIn/spiffy) - Aesthtically Pleasing Screenshots ✨ Spiffy converts your boring screenshots into aesthetic and beautiful screenshots. Upto 8K download, Custom & AI Background, Shadows, Corners & more.
 - [rilwis/bamboo](https://github.com/rilwis/bamboo) - A classless CSS utility for your HTML
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
 
@@ -319,6 +322,7 @@
 
 ## javascript 
 
+- [VishwaGauravIn/spiffy](https://github.com/VishwaGauravIn/spiffy) - Aesthtically Pleasing Screenshots ✨ Spiffy converts your boring screenshots into aesthetic and beautiful screenshots. Upto 8K download, Custom & AI Background, Shadows, Corners & more.
 - [Darginec05/Yoopta-Editor](https://github.com/Darginec05/Yoopta-Editor) - Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
@@ -391,6 +395,7 @@
 
 ## nextjs 
 
+- [VishwaGauravIn/spiffy](https://github.com/VishwaGauravIn/spiffy) - Aesthtically Pleasing Screenshots ✨ Spiffy converts your boring screenshots into aesthetic and beautiful screenshots. Upto 8K download, Custom & AI Background, Shadows, Corners & more.
 - [atherosai/ui](https://github.com/atherosai/ui) - Simple UI examples from my social media
 - [allister-grange/startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -520,6 +525,7 @@
 
 ## reactjs 
 
+- [VishwaGauravIn/spiffy](https://github.com/VishwaGauravIn/spiffy) - Aesthtically Pleasing Screenshots ✨ Spiffy converts your boring screenshots into aesthetic and beautiful screenshots. Upto 8K download, Custom & AI Background, Shadows, Corners & more.
 - [atherosai/ui](https://github.com/atherosai/ui) - Simple UI examples from my social media
 
 ## redux 
@@ -560,6 +566,7 @@
 
 ## svelte 
 
+- [mattjennings/sveltekit-blog-template](https://github.com/mattjennings/sveltekit-blog-template) - A SvelteKit blog template
 - [woutdp/live_svelte](https://github.com/woutdp/live_svelte) - Svelte inside Phoenix LiveView with seamless end-to-end reactivity
 - [slinkity/slinkity](https://github.com/slinkity/slinkity) - To eleventy and beyond! The all-in-one tool for templates where you want them, component frameworks where you need them 🚀
 
