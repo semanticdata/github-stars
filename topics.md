@@ -415,6 +415,7 @@
 
 ## others 
 
+- [revolter/notepadtab.com](https://github.com/revolter/notepadtab.com) - 
 - [CondensedMilk7/eleventy-academic-template](https://github.com/CondensedMilk7/eleventy-academic-template) - 11ty template for academic style blog with citations, latex style math expressions and more.
 - [gamingrobot/zallery](https://github.com/gamingrobot/zallery) - Gallery/Portfolio theme for Zola
 - [technomancy-dev/technonomicon](https://github.com/technomancy-dev/technonomicon) - The book of the devs.
