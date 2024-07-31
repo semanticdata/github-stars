@@ -71,6 +71,7 @@
 
 ## CSS 
 
+- [secure-77/Perlite](https://github.com/secure-77/Perlite) - A web-based markdown viewer optimized for Obsidian
 - [CondensedMilk7/eleventy-academic-template](https://github.com/CondensedMilk7/eleventy-academic-template) - 11ty template for academic style blog with citations, latex style math expressions and more.
 - [yinkakun/eleventy-duo](https://github.com/yinkakun/eleventy-duo) - Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.
 - [kirso/logseq-panic-theme](https://github.com/kirso/logseq-panic-theme) - Dark theme for Logseq inspired by Palette theme from Panic and panic mode theme from Bear
@@ -227,6 +228,7 @@
 
 ## TypeScript 
 
+- [datopian/flowershow](https://github.com/datopian/flowershow) - 💐 Publish your obsidian digital garden or any markdown site easily and elegantly.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [kangabru/pretty-snap](https://github.com/kangabru/pretty-snap) - Awesome editing apps to make your screenshots look 🔥
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
