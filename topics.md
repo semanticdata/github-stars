@@ -417,6 +417,7 @@
 
 ## others 
 
+- [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4' 720X720 TFT display
 - [revolter/notepadtab.com](https://github.com/revolter/notepadtab.com) - 
 - [technomancy-dev/technonomicon](https://github.com/technomancy-dev/technonomicon) - The book of the devs.
 - [Jigoku/paddy](https://github.com/Jigoku/paddy) - LÖVE2D -  an onscreen controller display for touch enabled devices
