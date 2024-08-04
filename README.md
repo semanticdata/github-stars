@@ -101,6 +101,7 @@
 
 ## HTML 
 
+- [codazoda/neatcss](https://github.com/codazoda/neatcss) - Rapidly build efficient sites with Neat, the minimalist css framework.
 - [revolter/notepadtab.com](https://github.com/revolter/notepadtab.com) - 
 - [philips/inkpalm-5-adb-english](https://github.com/philips/inkpalm-5-adb-english) - Instructions to setup an Xioami Inkpalm 5 with English and other apps
 - [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
@@ -170,7 +171,7 @@
 
 ## Others 
 
-- [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4' 720X720 TFT display
+- [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4" 720X720 TFT display
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
 - [WebdevShefali/CheatSheets](https://github.com/WebdevShefali/CheatSheets) - 
