@@ -69,6 +69,7 @@
 
 ## CSS 
 
+- [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
 - [secure-77/Perlite](https://github.com/secure-77/Perlite) - A web-based markdown viewer optimized for Obsidian
 - [yinkakun/eleventy-duo](https://github.com/yinkakun/eleventy-duo) - Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.
 - [kirso/logseq-panic-theme](https://github.com/kirso/logseq-panic-theme) - Dark theme for Logseq inspired by Palette theme from Panic and panic mode theme from Bear
@@ -101,6 +102,9 @@
 
 ## HTML 
 
+- [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
+- [cferdinandi/kraken](https://github.com/cferdinandi/kraken) - A lightweight, mobile-first boilerplate for front-end web developers.
+- [louismerlin/concrete.css](https://github.com/louismerlin/concrete.css) - A simple and to the point classless CSS framework
 - [codazoda/neatcss](https://github.com/codazoda/neatcss) - Rapidly build efficient sites with Neat, the minimalist css framework.
 - [revolter/notepadtab.com](https://github.com/revolter/notepadtab.com) - 
 - [philips/inkpalm-5-adb-english](https://github.com/philips/inkpalm-5-adb-english) - Instructions to setup an Xioami Inkpalm 5 with English and other apps
