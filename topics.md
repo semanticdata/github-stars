@@ -46,6 +46,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [language](#language)
+- [latex](#latex)
 - [linux](#linux)
 - [llm](#llm)
 - [lua](#lua)
@@ -175,6 +176,8 @@
 
 ## css 
 
+- [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
+- [louismerlin/concrete.css](https://github.com/louismerlin/concrete.css) - A simple and to the point classless CSS framework
 - [VishwaGauravIn/spiffy](https://github.com/VishwaGauravIn/spiffy) - Aesthtically Pleasing Screenshots ✨ Spiffy converts your boring screenshots into aesthetic and beautiful screenshots. Upto 8K download, Custom & AI Background, Shadows, Corners & more.
 - [rilwis/bamboo](https://github.com/rilwis/bamboo) - A classless CSS utility for your HTML
 - [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
@@ -224,6 +227,7 @@
 
 ## framework 
 
+- [louismerlin/concrete.css](https://github.com/louismerlin/concrete.css) - A simple and to the point classless CSS framework
 - [samyeyo/LuaRT](https://github.com/samyeyo/LuaRT) - Open source Windows programming framework for Lua
 
 ## game 
@@ -307,6 +311,8 @@
 
 ## html 
 
+- [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
+- [louismerlin/concrete.css](https://github.com/louismerlin/concrete.css) - A simple and to the point classless CSS framework
 - [VishwaGauravIn/spiffy](https://github.com/VishwaGauravIn/spiffy) - Aesthtically Pleasing Screenshots ✨ Spiffy converts your boring screenshots into aesthetic and beautiful screenshots. Upto 8K download, Custom & AI Background, Shadows, Corners & more.
 - [rilwis/bamboo](https://github.com/rilwis/bamboo) - A classless CSS utility for your HTML
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
@@ -336,6 +342,10 @@
 ## language 
 
 - [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
+
+## latex 
+
+- [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
 
 ## linux 
 
@@ -417,6 +427,8 @@
 
 ## others 
 
+- [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
+- [cferdinandi/kraken](https://github.com/cferdinandi/kraken) - A lightweight, mobile-first boilerplate for front-end web developers.
 - [codazoda/neatcss](https://github.com/codazoda/neatcss) - Rapidly build efficient sites with Neat, the minimalist css framework.
 - [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4" 720X720 TFT display
 - [revolter/notepadtab.com](https://github.com/revolter/notepadtab.com) - 
