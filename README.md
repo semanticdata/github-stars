@@ -22,6 +22,7 @@
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
@@ -175,6 +176,10 @@
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
 - [a327ex/SNKRX](https://github.com/a327ex/SNKRX) - A replayable arcade shooter where you control a snake of heroes.
 
+## Nunjucks 
+
+- [MarcoMicale/Minimalism](https://github.com/MarcoMicale/Minimalism) - A 11ty starter, PWA, Tailwind Css, SEO...
+
 ## Others 
 
 - [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4" 720X720 TFT display
@@ -229,6 +234,7 @@
 
 ## TypeScript 
 
+- [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style p
 - [Xe/praise-me](https://github.com/Xe/praise-me) - Praise my GitHub profile!
 - [datopian/flowershow](https://github.com/datopian/flowershow) - 💐 Publish your obsidian digital garden or any markdown site easily and elegantly.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
