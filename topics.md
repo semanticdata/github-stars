@@ -12,6 +12,7 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [bash](#bash)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -141,6 +142,10 @@
 ## bash 
 
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
+
+## c-plus-plus 
+
+- [dscharrer/innoextract](https://github.com/dscharrer/innoextract) - A tool to unpack installers created by Inno Setup
 
 ## chatgpt 
 
@@ -487,7 +492,6 @@
 - [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [jamigibbs/text-revealer-js](https://github.com/jamigibbs/text-revealer-js) - Reveal deeper information about text you highlight on a web page.
-- [dscharrer/innoextract](https://github.com/dscharrer/innoextract) - A tool to unpack installers created by Inno Setup
 - [deadlyjack/Acode](https://github.com/deadlyjack/Acode) - Acode - powerful text/code editor for android
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [theletterf/english-lang](https://github.com/theletterf/english-lang) - The English Programming Language
