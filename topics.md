@@ -432,6 +432,7 @@
 
 ## others 
 
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [CondensedMilk7/eleventy-academic-template](https://github.com/CondensedMilk7/eleventy-academic-template) - 11ty template for academic style blog with citations, latex style math expressions and more.
 - [trevortylerlee/astro-micro](https://github.com/trevortylerlee/astro-micro) - Blog theme for Astro with search and comments built-in. Zero frameworks.
 - [Xe/praise-me](https://github.com/Xe/praise-me) - Praise my GitHub profile!
