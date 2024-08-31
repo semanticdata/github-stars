@@ -440,6 +440,7 @@
 
 ## others 
 
+- [Heydon/REVENGE.CSS](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that puts pink error boxes (with messages in comic sans) everywhere you write bad HTML.
 - [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
 - [5t3ph/eleventy-rss-reader](https://github.com/5t3ph/eleventy-rss-reader) - Create a personal RSS Reader using Eleventy. Review recordings to learn how it was built!
 - [delashum/obsidian-checklist-plugin](https://github.com/delashum/obsidian-checklist-plugin) - 
