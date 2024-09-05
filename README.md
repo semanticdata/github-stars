@@ -196,7 +196,6 @@
 - [lewisje/awesome-bookmarklets](https://github.com/lewisje/awesome-bookmarklets) - Awesome collection of helpful bookmarklets
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 - [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
-- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
@@ -232,6 +231,7 @@
 
 ## Shell 
 
+- [martinpllu/eyeball](https://github.com/martinpllu/eyeball) - Detect and understand changes in a program's output.
 - [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - This is the official repository for the back end of the Andronix app 🚀. Here you can know all the scripts you're installing 😎
 - [phazus/lofiatc.sh](https://github.com/phazus/lofiatc.sh) - lofiatc.com but with mpv
 
