@@ -35,13 +35,14 @@
 
 ## Astro 
 
+- [alexanderhodes/astro-minimal-cv](https://github.com/alexanderhodes/astro-minimal-cv) - Minimal cv built with astro
 - [technomancy-dev/technonomicon](https://github.com/technomancy-dev/technonomicon) - The book of the devs.
 - [Charca/astro-blog-template](https://github.com/Charca/astro-blog-template) - Personal Blog Template Powered by Astro
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
 ## Batchfile 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [kkkgo/KMS_VL_ALL](https://github.com/kkkgo/KMS_VL_ALL) - 🔑KMS_VL_ALL - Smart Activation Script
 
 ## C 
