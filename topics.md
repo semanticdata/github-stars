@@ -23,6 +23,7 @@
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [design](#design)
+- [discord](#discord)
 - [electron](#electron)
 - [elixir](#elixir)
 - [emacs](#emacs)
@@ -70,6 +71,7 @@
 - [project-management](#project-management)
 - [pwa](#pwa)
 - [python](#python)
+- [python3](#python3)
 - [qt](#qt)
 - [react](#react)
 - [reactjs](#reactjs)
@@ -205,6 +207,10 @@
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 - [VishwaGauravIn/spiffy](https://github.com/VishwaGauravIn/spiffy) - Aesthtically Pleasing Screenshots ✨ Spiffy converts your boring screenshots into aesthetic and beautiful screenshots. Upto 8K download, Custom & AI Background, Shadows, Corners & more.
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
+
+## discord 
+
+- [goatcorp/FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher) - Custom launcher for FFXIV
 
 ## electron 
 
@@ -553,6 +559,10 @@
 ## python 
 
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+
+## python3 
+
+- [lds133/weather_landscape](https://github.com/lds133/weather_landscape) - Visualizing Weather Forecasts Through Landscape Imagery
 
 ## qt 
 
