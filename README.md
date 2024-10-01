@@ -48,6 +48,7 @@
 
 ## C 
 
+- [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [samyeyo/LuaRT](https://github.com/samyeyo/LuaRT) - Open source Windows programming framework for Lua
 - [pelya/debian-noroot](https://github.com/pelya/debian-noroot) - Debian running on Android, without rooting your phone
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
@@ -175,6 +176,7 @@
 
 ## Kotlin 
 
+- [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
 - [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 
@@ -216,6 +218,7 @@
 
 ## Python 
 
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD's "Panels" app
 - [lds133/weather_landscape](https://github.com/lds133/weather_landscape) - Visualizing Weather Forecasts Through Landscape Imagery
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
@@ -251,6 +254,7 @@
 
 ## TypeScript 
 
+- [rameshvarun/blog-cells](https://github.com/rameshvarun/blog-cells) - Add interactive code snippets to any blog or webpage.
 - [klembot/twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
 - [blacksmithgu/datacore](https://github.com/blacksmithgu/datacore) - Work-in-progress successor to Dataview with a focus on UX and speed.
 - [mazzzystar/tinymind](https://github.com/mazzzystar/tinymind) - Tinymind - Write and sync your blog & thoughts with GitHub
