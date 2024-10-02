@@ -308,6 +308,7 @@
 
 ## go 
 
+- [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 
 ## godot 
@@ -317,6 +318,7 @@
 
 ## golang 
 
+- [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 
 ## hacktoberfest 
@@ -335,6 +337,7 @@
 
 ## html 
 
+- [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
 - [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style p
 - [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
 - [louismerlin/concrete.css](https://github.com/louismerlin/concrete.css) - A simple and to the point classless CSS framework
@@ -344,6 +347,7 @@
 
 ## html5 
 
+- [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
 - [jonfranco224/not-my-cows](https://github.com/jonfranco224/not-my-cows) - A canvas game experiment - "Outer space has unleashed its fury! Protect your live stock, your livelihood, your home. It's all you've got left..."
 
