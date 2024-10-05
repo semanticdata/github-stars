@@ -456,6 +456,7 @@
 
 ## others 
 
+- [vpavlenko/web-2024-template](https://github.com/vpavlenko/web-2024-template) - Front-end skills aren't needed anymore to create a web application. Use the Cursor IDE, it'll write the code for you
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD's "Panels" app
 - [klembot/twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
