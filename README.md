@@ -255,6 +255,7 @@
 
 ## TypeScript 
 
+- [vpavlenko/web-2024-template](https://github.com/vpavlenko/web-2024-template) - Front-end skills aren't needed anymore to create a web application. Use the Cursor IDE, it'll write the code for you
 - [rameshvarun/blog-cells](https://github.com/rameshvarun/blog-cells) - Add interactive code snippets to any blog or webpage.
 - [klembot/twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
 - [blacksmithgu/datacore](https://github.com/blacksmithgu/datacore) - Work-in-progress successor to Dataview with a focus on UX and speed.
