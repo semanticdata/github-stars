@@ -163,6 +163,7 @@
 
 ## chrome-extension 
 
+- [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
@@ -362,6 +363,7 @@
 - [Darginec05/Yoopta-Editor](https://github.com/Darginec05/Yoopta-Editor) - Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
+- [ashtonmeuser/bookmarklet-platform](https://github.com/ashtonmeuser/bookmarklet-platform) - A platform for distributing JS bookmarklets created from GitHub gists
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
@@ -456,7 +458,7 @@
 
 ## others 
 
-- [vpavlenko/web-2024-template](https://github.com/vpavlenko/web-2024-template) - Front-end skills aren't needed anymore to create a web application. Use the Cursor IDE, it'll write the code for you
+- [porsager/flems](https://github.com/porsager/flems) - A single file web playground and sandbox
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD's "Panels" app
 - [klembot/twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
@@ -508,7 +510,6 @@
 - [DrummerHead/CSS-inject](https://github.com/DrummerHead/CSS-inject) - CSS focused Bookmarklet generator. Modify the layout and looks of a site on the fly.
 - [DrummerHead/JS-Inject](https://github.com/DrummerHead/JS-Inject) - Fast way to create bookmarklets, inject jQuery on the fly also
 - [bradfrost/style-guide-guide](https://github.com/bradfrost/style-guide-guide) - A boilerplate for creating your own custom style guide
-- [ashtonmeuser/bookmarklet-platform](https://github.com/ashtonmeuser/bookmarklet-platform) - A platform for distributing JS bookmarklets created from GitHub gists
 - [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
 - [nhoizey/pack11ty](https://github.com/nhoizey/pack11ty) - An heavily opinionated Eleventy template project with Sass
 - [srambach/classbxr](https://github.com/srambach/classbxr) - This project adds a box and the class names around elements for easier debugging and visualization of the HTML/CSS structure
@@ -595,6 +596,7 @@
 
 ## reactjs 
 
+- [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [VishwaGauravIn/spiffy](https://github.com/VishwaGauravIn/spiffy) - Aesthtically Pleasing Screenshots ✨ Spiffy converts your boring screenshots into aesthetic and beautiful screenshots. Upto 8K download, Custom & AI Background, Shadows, Corners & more.
 
 ## redux 
@@ -666,6 +668,7 @@
 
 ## typescript 
 
+- [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [rameshvarun/blog-cells](https://github.com/rameshvarun/blog-cells) - Add interactive code snippets to any blog or webpage.
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
