@@ -20,6 +20,7 @@
 - [Hack](#hack)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Just](#just)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [MDX](#mdx)
@@ -175,6 +176,10 @@
 - [deadlyjack/Acode](https://github.com/deadlyjack/Acode) - Acode - powerful text/code editor for android
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [tobloef/text2mindmap](https://github.com/tobloef/text2mindmap) - Online tool for making mindmaps by writing indented lists
+
+## Just 
+
+- [elijah-potter/harper-obsidian-plugin](https://github.com/elijah-potter/harper-obsidian-plugin) - 
 
 ## Kotlin 
 
