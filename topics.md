@@ -459,6 +459,7 @@
 
 ## others 
 
+- [elijah-potter/harper-obsidian-plugin](https://github.com/elijah-potter/harper-obsidian-plugin) - 
 - [porsager/flems](https://github.com/porsager/flems) - A single file web playground and sandbox
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD's "Panels" app
