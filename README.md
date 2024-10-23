@@ -141,6 +141,8 @@
 
 ## JavaScript 
 
+- [pmario/file-backups](https://github.com/pmario/file-backups) - File Save & Backup Utility For TiddlyWiki
+- [ThaddeusJiang/Projectify](https://github.com/ThaddeusJiang/Projectify) - Project management in TiddlyWiki
 - [porsager/flems](https://github.com/porsager/flems) - A single file web playground and sandbox
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [Explosion-Scratch/firebuilder](https://github.com/Explosion-Scratch/firebuilder) - A comprehensive firefox profile, themes, userCSS and userChrome builder
