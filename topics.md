@@ -459,6 +459,7 @@
 
 ## others 
 
+- [pmario/file-backups](https://github.com/pmario/file-backups) - File Save & Backup Utility For TiddlyWiki
 - [elijah-potter/harper-obsidian-plugin](https://github.com/elijah-potter/harper-obsidian-plugin) - 
 - [porsager/flems](https://github.com/porsager/flems) - A single file web playground and sandbox
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -568,6 +569,7 @@
 
 ## project-management 
 
+- [ThaddeusJiang/Projectify](https://github.com/ThaddeusJiang/Projectify) - Project management in TiddlyWiki
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 
 ## pwa 
