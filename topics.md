@@ -459,6 +459,7 @@
 
 ## others 
 
+- [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [Alamantus/FeatherWiki](https://github.com/Alamantus/FeatherWiki) - A tiny, self-contained JavaScript wiki that runs in the browser [MIRROR]
 - [pmario/file-backups](https://github.com/pmario/file-backups) - File Save & Backup Utility For TiddlyWiki
 - [elijah-potter/harper-obsidian-plugin](https://github.com/elijah-potter/harper-obsidian-plugin) - 
