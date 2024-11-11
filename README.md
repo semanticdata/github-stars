@@ -88,7 +88,7 @@
 - [replete/obsidian-minimal-theme-css-snippets](https://github.com/replete/obsidian-minimal-theme-css-snippets) - Obsidian CSS snippets to tweak UI and harmonize various plugins with the Minimal Theme - for fellow hackers.
 - [disclose/research-threats](https://github.com/disclose/research-threats) - Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
-- [adamstddrd/grease](https://github.com/adamstddrd/grease) - 
+- [adamstddrd/grease](https://github.com/adamstddrd/grease) - A starter for working with the modern web platform
 
 ## Clojure 
 
