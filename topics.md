@@ -528,7 +528,7 @@
 - [obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
 - [andrewmcgivery/obsidian-soundscapes](https://github.com/andrewmcgivery/obsidian-soundscapes) - A plugin for Obsidian.MD that adds a music/ambiance player to the status bar to play Lofi beats, nature sounds, ambiance, relaxing music, and more.
 - [maks/MGit](https://github.com/maks/MGit) - A Git client for Android.
-- [adamstddrd/grease](https://github.com/adamstddrd/grease) - 
+- [adamstddrd/grease](https://github.com/adamstddrd/grease) - A starter for working with the modern web platform
 - [vrtmrz/diffzip](https://github.com/vrtmrz/diffzip) - 
 - [weather-gov/weather.gov](https://github.com/weather-gov/weather.gov) - weather.gov 2.0
 - [axcore/tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
