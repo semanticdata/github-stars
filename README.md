@@ -37,6 +37,7 @@
 
 ## Astro 
 
+- [sarasate/gate](https://github.com/sarasate/gate) - Astro OpenAPI Documentation
 - [alexanderhodes/astro-minimal-cv](https://github.com/alexanderhodes/astro-minimal-cv) - Minimal cv built with astro
 - [technomancy-dev/technonomicon](https://github.com/technomancy-dev/technonomicon) - The book of the devs.
 - [Charca/astro-blog-template](https://github.com/Charca/astro-blog-template) - Personal Blog Template Powered by Astro
