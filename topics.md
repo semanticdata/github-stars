@@ -409,6 +409,7 @@
 
 ## markdown 
 
+- [nicholasdly/miniblog](https://github.com/nicholasdly/miniblog) - An opinionated and extremely minimal blogging template. 📝
 - [datopian/flowershow](https://github.com/datopian/flowershow) - 💐 Publish your obsidian digital garden or any markdown site easily and elegantly.
 - [secure-77/Perlite](https://github.com/secure-77/Perlite) - A web-based markdown viewer optimized for Obsidian
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
@@ -459,6 +460,7 @@
 
 ## others 
 
+- [nicholasdly/pomodoro](https://github.com/nicholasdly/pomodoro) - A minimal pomodoro timer and to-do list. ⏰
 - [sarasate/gate](https://github.com/sarasate/gate) - Astro OpenAPI Documentation
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [Alamantus/FeatherWiki](https://github.com/Alamantus/FeatherWiki) - A tiny, self-contained JavaScript wiki that runs in the browser [MIRROR]
@@ -645,6 +647,8 @@
 
 ## tailwindcss 
 
+- [nicholasdly/miniblog](https://github.com/nicholasdly/miniblog) - An opinionated and extremely minimal blogging template. 📝
+- [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) - A minimal Astro blog theme
 - [MarcoMicale/Minimalism](https://github.com/MarcoMicale/Minimalism) - A 11ty starter, PWA, Tailwind Css, SEO...
 - [VishwaGauravIn/spiffy](https://github.com/VishwaGauravIn/spiffy) - Aesthtically Pleasing Screenshots ✨ Spiffy converts your boring screenshots into aesthetic and beautiful screenshots. Upto 8K download, Custom & AI Background, Shadows, Corners & more.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
