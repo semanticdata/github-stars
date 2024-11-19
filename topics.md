@@ -17,6 +17,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [clojure](#clojure)
+- [code](#code)
 - [compiler](#compiler)
 - [cpp](#cpp)
 - [csharp](#csharp)
@@ -175,6 +176,10 @@
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
+## code 
+
+- [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.
+
 ## compiler 
 
 - [samyeyo/LuaRT](https://github.com/samyeyo/LuaRT) - Open source Windows programming framework for Lua
@@ -324,7 +329,6 @@
 
 ## hacktoberfest 
 
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [yinkakun/eleventy-duo](https://github.com/yinkakun/eleventy-duo) - Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [Darginec05/Yoopta-Editor](https://github.com/Darginec05/Yoopta-Editor) - Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta
@@ -479,6 +483,7 @@
 - [delashum/obsidian-checklist-plugin](https://github.com/delashum/obsidian-checklist-plugin) - 
 - [Explosion-Scratch/firebuilder](https://github.com/Explosion-Scratch/firebuilder) - A comprehensive firefox profile, themes, userCSS and userChrome builder
 - [jensmtg/influx](https://github.com/jensmtg/influx) - An alternative backlinks plugin, which displays relevant and formatted excerpts from notes with linked mentions, based on the position of mentions in the notes' hierarchical structure (bullet level in
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [CondensedMilk7/eleventy-academic-template](https://github.com/CondensedMilk7/eleventy-academic-template) - 11ty template for academic style blog with citations, latex style math expressions and more.
 - [trevortylerlee/astro-micro](https://github.com/trevortylerlee/astro-micro) - Blog theme for Astro with search and comments built-in. Zero frameworks.
 - [Xe/praise-me](https://github.com/Xe/praise-me) - Praise my GitHub profile!
@@ -495,7 +500,6 @@
 - [apankrat/writing](https://github.com/apankrat/writing) - Writing is a lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported).
 - [Charca/astro-blog-template](https://github.com/Charca/astro-blog-template) - Personal Blog Template Powered by Astro
 - [kangabru/pretty-snap](https://github.com/kangabru/pretty-snap) - Awesome editing apps to make your screenshots look 🔥
-- [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.
 - [twogrey/CoPiBoo---Color-Picker-Bookmarklet](https://github.com/twogrey/CoPiBoo---Color-Picker-Bookmarklet) - A multilingual & responsive color picker bookmarklet
 - [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend
 - [kirso/logseq-panic-theme](https://github.com/kirso/logseq-panic-theme) - Dark theme for Logseq inspired by Palette theme from Panic and panic mode theme from Bear
@@ -660,6 +664,7 @@
 ## terminal 
 
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
+- [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
