@@ -262,6 +262,7 @@
 
 ## Svelte 
 
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
 - [jillro/obsidian-cards-view-plugin](https://github.com/jillro/obsidian-cards-view-plugin) - Plugin for Obsidian.md. Displays a card view of your notes.
 
