@@ -290,6 +290,7 @@
 
 ## git 
 
+- [redimp/otterwiki](https://github.com/redimp/otterwiki) - A minimalistic wiki powered by python, markdown and git.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [git-emoji/vscode-extension](https://github.com/git-emoji/vscode-extension) - Suggest context based emojis in VS Code
 - [cooperspencer/gickup](https://github.com/cooperspencer/gickup) - 
@@ -414,6 +415,7 @@
 
 ## markdown 
 
+- [redimp/otterwiki](https://github.com/redimp/otterwiki) - A minimalistic wiki powered by python, markdown and git.
 - [nicholasdly/miniblog](https://github.com/nicholasdly/miniblog) - An opinionated and extremely minimal blogging template. 📝
 - [datopian/flowershow](https://github.com/datopian/flowershow) - 💐 Publish your obsidian digital garden or any markdown site easily and elegantly.
 - [secure-77/Perlite](https://github.com/secure-77/Perlite) - A web-based markdown viewer optimized for Obsidian
