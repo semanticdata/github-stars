@@ -467,6 +467,7 @@
 
 ## others 
 
+- [stevendborrelli/bluesky-tech-starter-packs](https://github.com/stevendborrelli/bluesky-tech-starter-packs) - A list of tech-related Bluesky starter packs
 - [nicholasdly/pomodoro](https://github.com/nicholasdly/pomodoro) - A minimal pomodoro timer and to-do list. ⏰
 - [sarasate/gate](https://github.com/sarasate/gate) - Astro OpenAPI Documentation
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
