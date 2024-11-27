@@ -44,11 +44,14 @@
 - [go](#go)
 - [godot](#godot)
 - [golang](#golang)
+- [gulp](#gulp)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [html5](#html5)
 - [java](#java)
 - [javascript](#javascript)
+- [jekyll](#jekyll)
+- [jekyll-theme](#jekyll-theme)
 - [language](#language)
 - [latex](#latex)
 - [linux](#linux)
@@ -80,6 +83,7 @@
 - [redux](#redux)
 - [rest-api](#rest-api)
 - [rust](#rust)
+- [sass](#sass)
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [server](#server)
@@ -329,6 +333,10 @@
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 
+## gulp 
+
+- [brianmaierjr/uni](https://github.com/brianmaierjr/uni) - A one-page jekyll theme.
+
 ## hacktoberfest 
 
 - [yinkakun/eleventy-duo](https://github.com/yinkakun/eleventy-duo) - Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.
@@ -378,6 +386,14 @@
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
 - [jonfranco224/not-my-cows](https://github.com/jonfranco224/not-my-cows) - A canvas game experiment - "Outer space has unleashed its fury! Protect your live stock, your livelihood, your home. It's all you've got left..."
 
+## jekyll 
+
+- [brianmaierjr/uni](https://github.com/brianmaierjr/uni) - A one-page jekyll theme.
+
+## jekyll-theme 
+
+- [brianmaierjr/uni](https://github.com/brianmaierjr/uni) - A one-page jekyll theme.
+
 ## language 
 
 - [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
@@ -416,7 +432,6 @@
 ## markdown 
 
 - [redimp/otterwiki](https://github.com/redimp/otterwiki) - A minimalistic wiki powered by python, markdown and git.
-- [nicholasdly/miniblog](https://github.com/nicholasdly/miniblog) - An opinionated and extremely minimal blogging template. 📝
 - [datopian/flowershow](https://github.com/datopian/flowershow) - 💐 Publish your obsidian digital garden or any markdown site easily and elegantly.
 - [secure-77/Perlite](https://github.com/secure-77/Perlite) - A web-based markdown viewer optimized for Obsidian
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
@@ -467,8 +482,9 @@
 
 ## others 
 
+- [xilapa/go-tiny-projects](https://github.com/xilapa/go-tiny-projects) - Tiny (but functional) golang projects/libraries.
 - [stevendborrelli/bluesky-tech-starter-packs](https://github.com/stevendborrelli/bluesky-tech-starter-packs) - A list of tech-related Bluesky starter packs
-- [nicholasdly/pomodoro](https://github.com/nicholasdly/pomodoro) - A minimal pomodoro timer and to-do list. ⏰
+- [nicholasdly/pomodoro](https://github.com/nicholasdly/pomodoro) - A pomodoro timer and to-do list. ⏰
 - [sarasate/gate](https://github.com/sarasate/gate) - Astro OpenAPI Documentation
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [Alamantus/FeatherWiki](https://github.com/Alamantus/FeatherWiki) - A tiny, self-contained JavaScript wiki that runs in the browser [MIRROR]
@@ -626,6 +642,10 @@
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 
+## sass 
+
+- [brianmaierjr/uni](https://github.com/brianmaierjr/uni) - A one-page jekyll theme.
+
 ## security 
 
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
@@ -655,7 +675,6 @@
 
 ## tailwindcss 
 
-- [nicholasdly/miniblog](https://github.com/nicholasdly/miniblog) - An opinionated and extremely minimal blogging template. 📝
 - [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) - A minimal Astro blog theme
 - [MarcoMicale/Minimalism](https://github.com/MarcoMicale/Minimalism) - A 11ty starter, PWA, Tailwind Css, SEO...
 - [VishwaGauravIn/spiffy](https://github.com/VishwaGauravIn/spiffy) - Aesthtically Pleasing Screenshots ✨ Spiffy converts your boring screenshots into aesthetic and beautiful screenshots. Upto 8K download, Custom & AI Background, Shadows, Corners & more.
