@@ -335,7 +335,7 @@
 
 - [yinkakun/eleventy-duo](https://github.com/yinkakun/eleventy-duo) - Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
-- [Darginec05/Yoopta-Editor](https://github.com/Darginec05/Yoopta-Editor) - Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta
+- [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) - Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta
 - [gautamkrishnar/keepalive-workflow](https://github.com/gautamkrishnar/keepalive-workflow) - GitHub action to prevent GitHub from suspending your cronjob based triggers due to repository inactivity
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [hmu332233/moon.svg](https://github.com/hmu332233/moon.svg) - Add real-time moon on your github! Moon.svg shows the current moon phase in real time!
@@ -369,7 +369,7 @@
 - [rameshvarun/blog-cells](https://github.com/rameshvarun/blog-cells) - Add interactive code snippets to any blog or webpage.
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [VishwaGauravIn/spiffy](https://github.com/VishwaGauravIn/spiffy) - Aesthtically Pleasing Screenshots ✨ Spiffy converts your boring screenshots into aesthetic and beautiful screenshots. Upto 8K download, Custom & AI Background, Shadows, Corners & more.
-- [Darginec05/Yoopta-Editor](https://github.com/Darginec05/Yoopta-Editor) - Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta
+- [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) - Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [ashtonmeuser/bookmarklet-platform](https://github.com/ashtonmeuser/bookmarklet-platform) - A platform for distributing JS bookmarklets created from GitHub gists
@@ -486,7 +486,7 @@
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [Alamantus/FeatherWiki](https://github.com/Alamantus/FeatherWiki) - A tiny, self-contained JavaScript wiki that runs in the browser [MIRROR]
 - [pmario/file-backups](https://github.com/pmario/file-backups) - File Save & Backup Utility For TiddlyWiki
-- [elijah-potter/harper-obsidian-plugin](https://github.com/elijah-potter/harper-obsidian-plugin) - 
+- [Automattic/harper-obsidian-plugin](https://github.com/Automattic/harper-obsidian-plugin) - 
 - [porsager/flems](https://github.com/porsager/flems) - A single file web playground and sandbox
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [klembot/twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
@@ -615,7 +615,7 @@
 
 ## react 
 
-- [Darginec05/Yoopta-Editor](https://github.com/Darginec05/Yoopta-Editor) - Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta
+- [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) - Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta
 - [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format.
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [allister-grange/startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)
@@ -672,6 +672,7 @@
 
 ## tailwindcss 
 
+- [superwebthemes/barebones](https://github.com/superwebthemes/barebones) - Welcome to SuperWeb Barebones, an ultra minimalistic Astro + Tailwind CSS starter template.
 - [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) - A minimal Astro blog theme
 - [MarcoMicale/Minimalism](https://github.com/MarcoMicale/Minimalism) - A 11ty starter, PWA, Tailwind Css, SEO...
 - [VishwaGauravIn/spiffy](https://github.com/VishwaGauravIn/spiffy) - Aesthtically Pleasing Screenshots ✨ Spiffy converts your boring screenshots into aesthetic and beautiful screenshots. Upto 8K download, Custom & AI Background, Shadows, Corners & more.
