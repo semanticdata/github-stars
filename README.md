@@ -273,6 +273,7 @@
 
 ## TypeScript 
 
+- [nyaggah/bedframe](https://github.com/nyaggah/bedframe) - Your Browser Extension Development Framework
 - [saberzero1/quartz-syncer](https://github.com/saberzero1/quartz-syncer) - Manage your Quartz site content from inside Obsidian. Full support for Dataview and Excalidraw.
 - [nicholasdly/pomodoro](https://github.com/nicholasdly/pomodoro) - A pomodoro timer and to-do list. ⏰
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
