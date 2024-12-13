@@ -476,6 +476,7 @@
 
 ## others 
 
+- [nyaggah/bedframe](https://github.com/nyaggah/bedframe) - Your Browser Extension Development Framework
 - [inkle/ink](https://github.com/inkle/ink) - inkle's open source scripting language for writing interactive narrative.
 - [saberzero1/quartz-themes](https://github.com/saberzero1/quartz-themes) - Obsidian 🤝 Quartz. Quartz compatible Obsidian Themes.
 - [saberzero1/quartz-syncer](https://github.com/saberzero1/quartz-syncer) - Manage your Quartz site content from inside Obsidian. Full support for Dataview and Excalidraw.
