@@ -25,6 +25,7 @@
 - [database](#database)
 - [design](#design)
 - [discord](#discord)
+- [documentation](#documentation)
 - [electron](#electron)
 - [elixir](#elixir)
 - [emacs](#emacs)
@@ -222,6 +223,10 @@
 ## discord 
 
 - [goatcorp/FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher) - Custom launcher for FFXIV
+
+## documentation 
+
+- [HYP3R00T/CelestialDocs](https://github.com/HYP3R00T/CelestialDocs) - Documentation template using Astro and Shadcn
 
 ## electron 
 
@@ -673,6 +678,7 @@
 
 ## tailwindcss 
 
+- [HYP3R00T/CelestialDocs](https://github.com/HYP3R00T/CelestialDocs) - Documentation template using Astro and Shadcn
 - [superwebthemes/barebones](https://github.com/superwebthemes/barebones) - Welcome to SuperWeb Barebones, an ultra minimalistic Astro + Tailwind CSS starter template.
 - [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) - A minimal Astro blog theme
 - [MarcoMicale/Minimalism](https://github.com/MarcoMicale/Minimalism) - A 11ty starter, PWA, Tailwind Css, SEO...
