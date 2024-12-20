@@ -481,6 +481,7 @@
 
 ## others 
 
+- [miragecraft/x-include](https://github.com/miragecraft/x-include) - Cross site HTML include via &lt;script&gt; tag in the manner of JSONP.
 - [nyaggah/bedframe](https://github.com/nyaggah/bedframe) - Your Browser Extension Development Framework
 - [inkle/ink](https://github.com/inkle/ink) - inkle's open source scripting language for writing interactive narrative.
 - [saberzero1/quartz-themes](https://github.com/saberzero1/quartz-themes) - Obsidian 🤝 Quartz. Quartz compatible Obsidian Themes.
