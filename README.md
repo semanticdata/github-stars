@@ -149,6 +149,7 @@
 
 ## JavaScript 
 
+- [pjeby/hot-reload](https://github.com/pjeby/hot-reload) - Automatically reload Obsidian plugins in development when their files are changed
 - [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.
 - [bjesus/notsolocalstorage](https://github.com/bjesus/notsolocalstorage) - Sync localStorage across devices using Firefox Sync
 - [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
@@ -277,6 +278,7 @@
 
 ## TypeScript 
 
+- [fyears/weather-fetcher](https://github.com/fyears/weather-fetcher) - 
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
 - [HYP3R00T/CelestialDocs](https://github.com/HYP3R00T/CelestialDocs) - Documentation template using Astro and Shadcn
 - [nyaggah/bedframe](https://github.com/nyaggah/bedframe) - Your Browser Extension Development Framework
