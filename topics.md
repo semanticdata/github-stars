@@ -330,7 +330,7 @@
 
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 
 ## godot 
 
@@ -341,7 +341,7 @@
 
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 
 ## gulp 
 
@@ -427,7 +427,7 @@
 
 ## llm 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 
 ## lua 
 
@@ -507,6 +507,7 @@
 
 ## others 
 
+- [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will 
 - [fyears/weather-fetcher](https://github.com/fyears/weather-fetcher) - 
 - [pjeby/hot-reload](https://github.com/pjeby/hot-reload) - Automatically reload Obsidian plugins in development when their files are changed
 - [bjesus/notsolocalstorage](https://github.com/bjesus/notsolocalstorage) - Sync localStorage across devices using Firefox Sync
