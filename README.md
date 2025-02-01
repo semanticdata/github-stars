@@ -82,6 +82,7 @@
 
 ## CSS 
 
+- [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS.
 - [brianmaierjr/uni](https://github.com/brianmaierjr/uni) - A one-page jekyll theme.
 - [Heydon/REVENGE.CSS](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that puts pink error boxes (with messages in comic sans) everywhere you write bad HTML.
 - [CondensedMilk7/eleventy-academic-template](https://github.com/CondensedMilk7/eleventy-academic-template) - 11ty template for academic style blog with citations, latex style math expressions and more.
@@ -279,6 +280,7 @@
 
 ## TypeScript 
 
+- [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - 
 - [fyears/weather-fetcher](https://github.com/fyears/weather-fetcher) - 
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
 - [HYP3R00T/CelestialDocs](https://github.com/HYP3R00T/CelestialDocs) - Documentation template using Astro and Shadcn
