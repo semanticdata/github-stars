@@ -507,6 +507,7 @@
 
 ## others 
 
+- [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - 
 - [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will 
 - [fyears/weather-fetcher](https://github.com/fyears/weather-fetcher) - 
 - [pjeby/hot-reload](https://github.com/pjeby/hot-reload) - Automatically reload Obsidian plugins in development when their files are changed
@@ -716,6 +717,7 @@
 
 ## tailwindcss 
 
+- [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS.
 - [HYP3R00T/CelestialDocs](https://github.com/HYP3R00T/CelestialDocs) - Documentation template using Astro and Shadcn
 - [superwebthemes/barebones](https://github.com/superwebthemes/barebones) - Welcome to SuperWeb Barebones, an ultra minimalistic Astro + Tailwind CSS starter template.
 - [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) - A minimal Astro blog theme
