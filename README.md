@@ -318,7 +318,7 @@
 - [jillro/obsidian-cards-view-plugin](https://github.com/jillro/obsidian-cards-view-plugin) - Plugin for Obsidian.md. Displays a card view of your notes.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [ValentinViennot/np-obsidian-index-wikilinks](https://github.com/ValentinViennot/np-obsidian-index-wikilinks) - Transform an Obsidian vault into an index.json file with wikilinks indexes and backlinks
-- [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
+- [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - 📘 VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
 - [andrewmcgivery/obsidian-soundscapes](https://github.com/andrewmcgivery/obsidian-soundscapes) - A plugin for Obsidian.MD that adds a music/ambiance player to the status bar to play Lofi beats, nature sounds, ambiance, relaxing music, and more.
 - [vrtmrz/diffzip](https://github.com/vrtmrz/diffzip) - 
