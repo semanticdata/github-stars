@@ -22,7 +22,6 @@
 - [cpp](#cpp)
 - [csharp](#csharp)
 - [css](#css)
-- [cybersecurity](#cybersecurity)
 - [database](#database)
 - [design](#design)
 - [discord](#discord)
@@ -219,10 +218,6 @@
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
-
-## cybersecurity 
-
-- [disclose/research-threats](https://github.com/disclose/research-threats) - Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg
 
 ## database 
 
@@ -526,6 +521,7 @@
 
 ## others 
 
+- [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
 - [olivier-monaco/local-storage-bookmarklets](https://github.com/olivier-monaco/local-storage-bookmarklets) - Bookmarklet to export/import localStorage of Browsers
 - [schellingb/LoveWebBuilder](https://github.com/schellingb/LoveWebBuilder) - Package, build and run LÖVE games for the web - https://schellingb.github.io/LoveWebBuilder/
 - [bencodezen/bens-obsidian-boilerplate](https://github.com/bencodezen/bens-obsidian-boilerplate) - An opinionated kit to provide people some inspiration and ideas for their own workflows.
@@ -589,7 +585,6 @@
 - [kjk/edna](https://github.com/kjk/edna) - Note taking for developers and power users
 - [Sheepolution/how-to-love](https://github.com/Sheepolution/how-to-love) - LÖVE tutorials
 - [WebdevShefali/CheatSheets](https://github.com/WebdevShefali/CheatSheets) - 
-- [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights) - Google lighthouse stats of your website that you can put in readme
 - [banner-maker/banner-maker](https://github.com/banner-maker/banner-maker) - 🎨 Make your own banner
 - [sometimesdigital/todo](https://github.com/sometimesdigital/todo) - you either die a hero or live long enough to see yourself become the villain
 - [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
@@ -709,7 +704,6 @@
 ## security 
 
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
-- [disclose/research-threats](https://github.com/disclose/research-threats) - Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
 ## security-tools 
