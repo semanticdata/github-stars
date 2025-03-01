@@ -92,7 +92,6 @@
 - [kirso/logseq-panic-theme](https://github.com/kirso/logseq-panic-theme) - Dark theme for Logseq inspired by Palette theme from Panic and panic mode theme from Bear
 - [dschep/GistMarklets](https://github.com/dschep/GistMarklets) - {}🔖 Easy to use installation page for bookmarklets hosted as gists.
 - [replete/obsidian-minimal-theme-css-snippets](https://github.com/replete/obsidian-minimal-theme-css-snippets) - Obsidian CSS snippets to tweak UI and harmonize various plugins with the Minimal Theme - for fellow hackers.
-- [disclose/research-threats](https://github.com/disclose/research-threats) - Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [adamstddrd/grease](https://github.com/adamstddrd/grease) - A starter for working with the modern web platform
 
@@ -282,6 +281,7 @@
 
 ## TypeScript 
 
+- [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
 - [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note.
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - 
 - [fyears/weather-fetcher](https://github.com/fyears/weather-fetcher) - 
@@ -307,7 +307,6 @@
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) - Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta
 - [hmu332233/moon.svg](https://github.com/hmu332233/moon.svg) - Add real-time moon on your github! Moon.svg shows the current moon phase in real time!
-- [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights) - Google lighthouse stats of your website that you can put in readme
 - [sometimesdigital/todo](https://github.com/sometimesdigital/todo) - you either die a hero or live long enough to see yourself become the villain
 - [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
