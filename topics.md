@@ -347,7 +347,6 @@
 
 ## golang 
 
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 
@@ -521,6 +520,8 @@
 
 ## others 
 
+- [velviagris/obsidian-local-backup](https://github.com/velviagris/obsidian-local-backup) - Automatically creates a local backup of the vault.
+- [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian.
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
 - [olivier-monaco/local-storage-bookmarklets](https://github.com/olivier-monaco/local-storage-bookmarklets) - Bookmarklet to export/import localStorage of Browsers
 - [schellingb/LoveWebBuilder](https://github.com/schellingb/LoveWebBuilder) - Package, build and run LÖVE games for the web - https://schellingb.github.io/LoveWebBuilder/
