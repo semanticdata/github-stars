@@ -173,6 +173,7 @@
 
 ## chrome-extension 
 
+- [ibillingsley/HumbleNewTabPage](https://github.com/ibillingsley/HumbleNewTabPage) - New tab page extension for Chrome and Firefox
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
@@ -522,6 +523,8 @@
 
 ## others 
 
+- [uwidev/memory-flow-interface](https://github.com/uwidev/memory-flow-interface) - Memory Flow Interface (MFI) is a working environment that promotes the externalization of working memory for mental processing. This repository serves to describe MFI, as well as serve as an implement
+- [Aetherinox/obsidian-dataview-snippets](https://github.com/Aetherinox/obsidian-dataview-snippets) - A collection of Obsidian.md scripts which include Tag & Page Clouds, Table of Contents / ToC, Bad / Missing Link reporting, etc.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [velviagris/obsidian-local-backup](https://github.com/velviagris/obsidian-local-backup) - Automatically creates a local backup of the vault.
 - [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian.
