@@ -523,6 +523,7 @@
 
 ## others 
 
+- [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
 - [uwidev/memory-flow-interface](https://github.com/uwidev/memory-flow-interface) - Memory Flow Interface (MFI) is a working environment that promotes the externalization of working memory for mental processing. This repository serves to describe MFI, as well as serve as an implement
 - [Aetherinox/obsidian-dataview-snippets](https://github.com/Aetherinox/obsidian-dataview-snippets) - A collection of Obsidian.md scripts which include Tag & Page Clouds, Table of Contents / ToC, Bad / Missing Link reporting, etc.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
