@@ -253,6 +253,7 @@
 
 ## Python 
 
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 - [kentaroy47/apple-lidar-stream](https://github.com/kentaroy47/apple-lidar-stream) - Stream Apple LiDAR (iPad/iPhone) data with open3d
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [spasmodicon/spacetime-visualizer](https://github.com/spasmodicon/spacetime-visualizer) - 
@@ -285,6 +286,7 @@
 
 ## Shell 
 
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [martinpllu/eyeball](https://github.com/martinpllu/eyeball) - Detect and understand changes in a program's output.
 - [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - This is the official repository for the back end of the Andronix app 🚀. Here you can know all the scripts you're installing 😎
 - [phazus/lofiatc.sh](https://github.com/phazus/lofiatc.sh) - lofiatc.com but with mpv
