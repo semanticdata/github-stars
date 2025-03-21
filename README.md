@@ -354,6 +354,7 @@
 
 ## Vue 
 
+- [koljapluemer/learn-worldmap](https://github.com/koljapluemer/learn-worldmap) - an SR-based web game to finally memorize countries on the world map
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
 
