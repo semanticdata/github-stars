@@ -304,7 +304,6 @@
 
 ## TypeScript 
 
-- [koljapluemer/learn-worldmap](https://github.com/koljapluemer/learn-worldmap) - an SR-based web game to finally memorize countries on the world map
 - [markahesketh/write-good-obsidian](https://github.com/markahesketh/write-good-obsidian) - Obsidian plugin to help improve writing style
 - [velviagris/obsidian-local-backup](https://github.com/velviagris/obsidian-local-backup) - Automatically creates a local backup of the vault.
 - [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian.
@@ -359,6 +358,7 @@
 
 ## Vue 
 
+- [koljapluemer/learn-worldmap](https://github.com/koljapluemer/learn-worldmap) - an SR-based web game to finally memorize countries on the world map
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
 
