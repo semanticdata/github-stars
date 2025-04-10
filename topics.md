@@ -538,6 +538,7 @@
 
 ## others 
 
+- [blairjordan/codachi](https://github.com/blairjordan/codachi) - 👾 A virtual pet for VS Code
 - [usetrmnl/trmnl-chrome](https://github.com/usetrmnl/trmnl-chrome) - New Tab Extension for Chrome that displays your current TRMNL screen whenever you open a new tab.
 - [ezyang/codemcp](https://github.com/ezyang/codemcp) - Coding assistant MCP for Claude Desktop
 - [potree/potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets
@@ -615,7 +616,7 @@
 - [koek67/resume-builder](https://github.com/koek67/resume-builder) - Create a clean, easy to read resume in pure Python.
 - [kjk/edna](https://github.com/kjk/edna) - Note taking for developers and power users
 - [Sheepolution/how-to-love](https://github.com/Sheepolution/how-to-love) - LÖVE tutorials
-- [WebdevShefali/CheatSheets](https://github.com/WebdevShefali/CheatSheets) - 
+- [WebdevShefali/CheatSheets](https://github.com/WebdevShefali/CheatSheets) - A collection of high-quality cheat sheets for web development technologies, including CSS, Git, HTML, and VSCode.
 - [banner-maker/banner-maker](https://github.com/banner-maker/banner-maker) - 🎨 Make your own banner
 - [sometimesdigital/todo](https://github.com/sometimesdigital/todo) - you either die a hero or live long enough to see yourself become the villain
 - [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
