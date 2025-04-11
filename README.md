@@ -85,6 +85,7 @@
 
 - [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS.
 - [superwebthemes/barebones](https://github.com/superwebthemes/barebones) - Welcome to Barebones, an ultra minimalistic Astro + Tailwind CSS starter template.
+- [saberzero1/quartz-themes](https://github.com/saberzero1/quartz-themes) - Obsidian 🤝 Quartz. Quartz compatible Obsidian Themes.
 - [brianmaierjr/uni](https://github.com/brianmaierjr/uni) - A one-page jekyll theme.
 - [Heydon/REVENGE.CSS](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that puts pink error boxes (with messages in comic sans) everywhere you write bad HTML.
 - [CondensedMilk7/eleventy-academic-template](https://github.com/CondensedMilk7/eleventy-academic-template) - 11ty template for academic style blog with citations, latex style math expressions and more.
@@ -289,7 +290,6 @@
 
 ## SCSS 
 
-- [saberzero1/quartz-themes](https://github.com/saberzero1/quartz-themes) - Obsidian 🤝 Quartz. Quartz compatible Obsidian Themes.
 - [5t3ph/eleventy-rss-reader](https://github.com/5t3ph/eleventy-rss-reader) - Create a personal RSS Reader using Eleventy. Review recordings to learn how it was built!
 - [rilwis/bamboo](https://github.com/rilwis/bamboo) - A classless CSS utility for your HTML
 - [nhoizey/pack11ty](https://github.com/nhoizey/pack11ty) - An heavily opinionated Eleventy template project with Sass
