@@ -132,7 +132,6 @@
 ## automation 
 
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [gautamkrishnar/keepalive-workflow](https://github.com/gautamkrishnar/keepalive-workflow) - GitHub action to prevent GitHub from suspending your cronjob based triggers due to repository inactivity
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
 ## awesome 
@@ -336,7 +335,6 @@
 
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [gautamkrishnar/keepalive-workflow](https://github.com/gautamkrishnar/keepalive-workflow) - GitHub action to prevent GitHub from suspending your cronjob based triggers due to repository inactivity
 - [hmu332233/moon.svg](https://github.com/hmu332233/moon.svg) - Add real-time moon on your github! Moon.svg shows the current moon phase in real time!
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
@@ -380,7 +378,6 @@
 - [yinkakun/eleventy-duo](https://github.com/yinkakun/eleventy-duo) - Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) - Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta
-- [gautamkrishnar/keepalive-workflow](https://github.com/gautamkrishnar/keepalive-workflow) - GitHub action to prevent GitHub from suspending your cronjob based triggers due to repository inactivity
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [hmu332233/moon.svg](https://github.com/hmu332233/moon.svg) - Add real-time moon on your github! Moon.svg shows the current moon phase in real time!
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
@@ -540,6 +537,7 @@
 
 ## others 
 
+- [JustAman62/undercut-f1](https://github.com/JustAman62/undercut-f1) - F1 Live Timing TUI for all F1 sessions with variable delay to sync to your TV. Supports replaying previously recorded sessions.
 - [blairjordan/codachi](https://github.com/blairjordan/codachi) - 👾 A virtual pet for VS Code
 - [usetrmnl/trmnl-chrome](https://github.com/usetrmnl/trmnl-chrome) - New Tab Extension for Chrome that displays your current TRMNL screen whenever you open a new tab.
 - [ezyang/codemcp](https://github.com/ezyang/codemcp) - Coding assistant MCP for Claude Desktop
