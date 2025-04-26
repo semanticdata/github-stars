@@ -412,6 +412,7 @@
 
 ## javascript 
 
+- [xenova/whisper-web](https://github.com/xenova/whisper-web) - ML-powered speech recognition directly in your browser
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 - [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note.
 - [rameshvarun/blog-cells](https://github.com/rameshvarun/blog-cells) - Add interactive code snippets to any blog or webpage.
@@ -537,6 +538,7 @@
 
 ## others 
 
+- [zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [JustAman62/undercut-f1](https://github.com/JustAman62/undercut-f1) - F1 Live Timing TUI for all F1 sessions with variable delay to sync to your TV. Supports replaying previously recorded sessions.
