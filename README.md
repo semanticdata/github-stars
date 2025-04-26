@@ -31,6 +31,7 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -305,8 +306,13 @@
 - [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - This is the official repository for the back end of the Andronix app 🚀. Here you can know all the scripts you're installing 😎
 - [phazus/lofiatc.sh](https://github.com/phazus/lofiatc.sh) - lofiatc.com but with mpv
 
+## Svelte 
+
+- [zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications
+
 ## TypeScript 
 
+- [xenova/whisper-web](https://github.com/xenova/whisper-web) - ML-powered speech recognition directly in your browser
 - [blairjordan/codachi](https://github.com/blairjordan/codachi) - 👾 A virtual pet for VS Code
 - [markahesketh/write-good-obsidian](https://github.com/markahesketh/write-good-obsidian) - Obsidian plugin to help improve writing style
 - [velviagris/obsidian-local-backup](https://github.com/velviagris/obsidian-local-backup) - Automatically creates a local backup of the vault.
