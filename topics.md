@@ -71,6 +71,7 @@
 - [nextjs](#nextjs)
 - [node](#node)
 - [nodejs](#nodejs)
+- [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
 - [osint](#osint)
 - [others](#others)
@@ -527,6 +528,18 @@
 
 - [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.
 
+## obsidian-plugin 
+
+- [mayurankv/Obsidian-Code-Styler](https://github.com/mayurankv/Obsidian-Code-Styler) - A plugin for Obsidian.md for styling codeblocks and inline code
+- [Aetherinox/obsidian-dataview-snippets](https://github.com/Aetherinox/obsidian-dataview-snippets) - A collection of Obsidian.md scripts which include Tag & Page Clouds, Table of Contents / ToC, Bad / Missing Link reporting, etc.
+- [velviagris/obsidian-local-backup](https://github.com/velviagris/obsidian-local-backup) - Automatically creates a local backup of the vault.
+- [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian.
+- [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note.
+- [pjeby/hot-reload](https://github.com/pjeby/hot-reload) - Automatically reload Obsidian plugins in development when their files are changed
+- [saberzero1/quartz-syncer](https://github.com/saberzero1/quartz-syncer) - Manage your Quartz site content from inside Obsidian. Full support for Dataview and Excalidraw.
+- [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style p
+- [andrewmcgivery/obsidian-soundscapes](https://github.com/andrewmcgivery/obsidian-soundscapes) - A plugin for Obsidian.MD that adds a music/ambiance player to the status bar to play Lofi beats, nature sounds, ambiance, relaxing music, and more.
+
 ## open-source 
 
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -550,13 +563,9 @@
 - [Keats/tera2](https://github.com/Keats/tera2) - 
 - [mozilla/notes](https://github.com/mozilla/notes) - DEPRECATED - A notepad for Firefox
 - [markahesketh/write-good-obsidian](https://github.com/markahesketh/write-good-obsidian) - Obsidian plugin to help improve writing style
-- [mayurankv/Obsidian-Code-Styler](https://github.com/mayurankv/Obsidian-Code-Styler) - A plugin for Obsidian.md for styling codeblocks and inline code
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
 - [uwidev/memory-flow-interface](https://github.com/uwidev/memory-flow-interface) - Memory Flow Interface (MFI) is a working environment that promotes the externalization of working memory for mental processing. This repository serves to describe MFI, as well as serve as an implement
-- [Aetherinox/obsidian-dataview-snippets](https://github.com/Aetherinox/obsidian-dataview-snippets) - A collection of Obsidian.md scripts which include Tag & Page Clouds, Table of Contents / ToC, Bad / Missing Link reporting, etc.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-- [velviagris/obsidian-local-backup](https://github.com/velviagris/obsidian-local-backup) - Automatically creates a local backup of the vault.
-- [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian.
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
 - [olivier-monaco/local-storage-bookmarklets](https://github.com/olivier-monaco/local-storage-bookmarklets) - Bookmarklet to export/import localStorage of Browsers
 - [schellingb/LoveWebBuilder](https://github.com/schellingb/LoveWebBuilder) - Package, build and run LÖVE games for the web - https://schellingb.github.io/LoveWebBuilder/
@@ -566,14 +575,12 @@
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - 
 - [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will 
 - [fyears/weather-fetcher](https://github.com/fyears/weather-fetcher) - 
-- [pjeby/hot-reload](https://github.com/pjeby/hot-reload) - Automatically reload Obsidian plugins in development when their files are changed
 - [bjesus/notsolocalstorage](https://github.com/bjesus/notsolocalstorage) - Sync localStorage across devices using Firefox Sync
 - [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [miragecraft/x-include](https://github.com/miragecraft/x-include) - Cross site HTML include via &lt;script&gt; tag in the manner of JSONP.
 - [nyaggah/bedframe](https://github.com/nyaggah/bedframe) - Your Browser Extension Development Framework
 - [inkle/ink](https://github.com/inkle/ink) - inkle's open source scripting language for writing interactive narrative.
 - [saberzero1/quartz-themes](https://github.com/saberzero1/quartz-themes) - Obsidian 🤝 Quartz. Quartz compatible Obsidian Themes.
-- [saberzero1/quartz-syncer](https://github.com/saberzero1/quartz-syncer) - Manage your Quartz site content from inside Obsidian. Full support for Dataview and Excalidraw.
 - [xilapa/go-tiny-projects](https://github.com/xilapa/go-tiny-projects) - Tiny (but functional) golang projects/libraries.
 - [stevendborrelli/bluesky-tech-starter-packs](https://github.com/stevendborrelli/bluesky-tech-starter-packs) - A list of tech-related Bluesky starter packs
 - [nicholasdly/pomodoro](https://github.com/nicholasdly/pomodoro) - A pomodoro timer and to-do list. ⏰
@@ -642,7 +649,6 @@
 - [ValentinViennot/np-obsidian-index-wikilinks](https://github.com/ValentinViennot/np-obsidian-index-wikilinks) - Transform an Obsidian vault into an index.json file with wikilinks indexes and backlinks
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
-- [andrewmcgivery/obsidian-soundscapes](https://github.com/andrewmcgivery/obsidian-soundscapes) - A plugin for Obsidian.MD that adds a music/ambiance player to the status bar to play Lofi beats, nature sounds, ambiance, relaxing music, and more.
 - [maks/MGit](https://github.com/maks/MGit) - A Git client for Android.
 - [adamstddrd/grease](https://github.com/adamstddrd/grease) - A starter for working with the modern web platform
 - [vrtmrz/diffzip](https://github.com/vrtmrz/diffzip) - 
