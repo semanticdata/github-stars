@@ -37,6 +37,7 @@
 
 ## Astro 
 
+- [nevthereal/linktree-template](https://github.com/nevthereal/linktree-template) - 
 - [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) - A minimal Astro blog theme
 - [sarasate/gate](https://github.com/sarasate/gate) - Astro OpenAPI Documentation
 - [alexanderhodes/astro-minimal-cv](https://github.com/alexanderhodes/astro-minimal-cv) - Minimal cv built with astro
