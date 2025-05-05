@@ -551,6 +551,7 @@
 
 ## others 
 
+- [conveyal/transitive.js](https://github.com/conveyal/transitive.js) - Transit data visualization
 - [nevthereal/linktree-template](https://github.com/nevthereal/linktree-template) - 
 - [zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
