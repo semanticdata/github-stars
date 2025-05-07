@@ -13,6 +13,7 @@
 - [awesome-list](#awesome-list)
 - [bash](#bash)
 - [c-plus-plus](#c-plus-plus)
+- [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -168,6 +169,10 @@
 
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [dscharrer/innoextract](https://github.com/dscharrer/innoextract) - A tool to unpack installers created by Inno Setup
+
+## chatgpt 
+
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
 
 ## chrome 
 
@@ -552,14 +557,12 @@
 ## others 
 
 - [conveyal/transitive.js](https://github.com/conveyal/transitive.js) - Transit data visualization
-- [nevthereal/linktree-template](https://github.com/nevthereal/linktree-template) - 
 - [zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [JustAman62/undercut-f1](https://github.com/JustAman62/undercut-f1) - F1 Live Timing TUI for all F1 sessions with variable delay to sync to your TV. Supports replaying previously recorded sessions.
 - [blairjordan/codachi](https://github.com/blairjordan/codachi) - 👾 A virtual pet for VS Code
 - [usetrmnl/trmnl-chrome](https://github.com/usetrmnl/trmnl-chrome) - New Tab Extension for Chrome that displays your current TRMNL screen whenever you open a new tab.
-- [ezyang/codemcp](https://github.com/ezyang/codemcp) - Coding assistant MCP for Claude Desktop
 - [potree/potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets
 - [CloudCompare/CloudCompare](https://github.com/CloudCompare/CloudCompare) - CloudCompare main repository
 - [Keats/tera2](https://github.com/Keats/tera2) - 
