@@ -37,7 +37,6 @@
 
 ## Astro 
 
-- [nevthereal/linktree-template](https://github.com/nevthereal/linktree-template) - 
 - [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) - A minimal Astro blog theme
 - [sarasate/gate](https://github.com/sarasate/gate) - Astro OpenAPI Documentation
 - [alexanderhodes/astro-minimal-cv](https://github.com/alexanderhodes/astro-minimal-cv) - Minimal cv built with astro
@@ -267,7 +266,6 @@
 
 - [ucg8j/awesome-dash](https://github.com/ucg8j/awesome-dash) - A curated list of awesome Dash (plotly) resources
 - [Uberi/speech_recognition](https://github.com/Uberi/speech_recognition) - Speech recognition module for Python, supporting several engines and APIs, online and offline.
-- [ezyang/codemcp](https://github.com/ezyang/codemcp) - Coding assistant MCP for Claude Desktop
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 - [kentaroy47/apple-lidar-stream](https://github.com/kentaroy47/apple-lidar-stream) - Stream Apple LiDAR (iPad/iPhone) data with open3d
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
@@ -314,6 +312,7 @@
 
 ## TypeScript 
 
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
 - [xenova/whisper-web](https://github.com/xenova/whisper-web) - ML-powered speech recognition directly in your browser
 - [blairjordan/codachi](https://github.com/blairjordan/codachi) - 👾 A virtual pet for VS Code
 - [markahesketh/write-good-obsidian](https://github.com/markahesketh/write-good-obsidian) - Obsidian plugin to help improve writing style
