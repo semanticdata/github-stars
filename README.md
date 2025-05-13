@@ -27,6 +27,7 @@
 - [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -52,6 +53,7 @@
 
 ## C 
 
+- [Efeckc17/simple-todo-c](https://github.com/Efeckc17/simple-todo-c) - A lightweight, native Windows Todo application built with pure C and the Win32 API. Just 54 KB
 - [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will 
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [samyeyo/LuaRT](https://github.com/samyeyo/LuaRT) - Open source Windows programming framework for Lua
@@ -262,6 +264,10 @@
 ## PHP 
 
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
+
+## PowerShell 
+
+- [LiaNdrY/Enshrouded-Tool-Fix](https://github.com/LiaNdrY/Enshrouded-Tool-Fix) - A utility that allows you to fix various problems in the game Enshrouded (or not)
 
 ## Python 
 
