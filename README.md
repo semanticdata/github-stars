@@ -268,6 +268,7 @@
 
 ## PowerShell 
 
+- [rstudio/tinytex-releases](https://github.com/rstudio/tinytex-releases) - Windows/macOS/Linux binaries and installation methods of TinyTeX
 - [LiaNdrY/Enshrouded-Tool-Fix](https://github.com/LiaNdrY/Enshrouded-Tool-Fix) - A utility that allows you to fix various problems in the game Enshrouded (or not)
 
 ## Python 
@@ -324,6 +325,7 @@
 
 ## TeX 
 
+- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
 
 ## TypeScript 
