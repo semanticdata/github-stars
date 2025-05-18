@@ -244,6 +244,7 @@
 
 ## Others 
 
+- [Textualize/transcendent-textual](https://github.com/Textualize/transcendent-textual) - Textual apps and libraries
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [TheComputerM/awesome-svelte](https://github.com/TheComputerM/awesome-svelte) - ⚡ A curated list of awesome Svelte resources
@@ -274,6 +275,7 @@
 
 ## Python 
 
+- [Textualize/textual-plotext](https://github.com/Textualize/textual-plotext) - A Textual widget wrapper library for Plotext
 - [Cyfine/TickTick-Dida365-API-Client](https://github.com/Cyfine/TickTick-Dida365-API-Client) - 
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -347,7 +349,7 @@
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
 - [HYP3R00T/CelestialDocs](https://github.com/HYP3R00T/CelestialDocs) - CelestialDocs is a minimal and versatile documentation template built with Astro and Tailwind CSS. It offers a clean interface, fast static site generation, and modern UI components with Shadcn UI. Ea
 - [nyaggah/bedframe](https://github.com/nyaggah/bedframe) - Your Browser Extension Development Framework
-- [saberzero1/quartz-syncer](https://github.com/saberzero1/quartz-syncer) - Manage your Quartz site content from inside Obsidian. Full support for Dataview and Excalidraw.
+- [saberzero1/quartz-syncer](https://github.com/saberzero1/quartz-syncer) - Manage and publish your notes to Quartz. Supports Dataview.
 - [nicholasdly/pomodoro](https://github.com/nicholasdly/pomodoro) - A pomodoro timer and to-do list. ⏰
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [rameshvarun/blog-cells](https://github.com/rameshvarun/blog-cells) - Add interactive code snippets to any blog or webpage.
