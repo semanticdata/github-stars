@@ -92,7 +92,7 @@
 
 - [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS.
 - [superwebthemes/barebones](https://github.com/superwebthemes/barebones) - Welcome to Barebones, an ultra minimalistic Astro + Tailwind CSS starter template.
-- [saberzero1/quartz-themes](https://github.com/saberzero1/quartz-themes) - Obsidian 🤝 Quartz. Quartz compatible Obsidian Themes.
+- [saberzero1/quartz-themes](https://github.com/saberzero1/quartz-themes) - Obsidian 🤝 Quartz. Quartz-compatible Obsidian themes.
 - [brianmaierjr/uni](https://github.com/brianmaierjr/uni) - A one-page jekyll theme.
 - [Heydon/REVENGE.CSS](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that puts pink error boxes (with messages in comic sans) everywhere you write bad HTML.
 - [CondensedMilk7/eleventy-academic-template](https://github.com/CondensedMilk7/eleventy-academic-template) - 11ty template for academic style blog with citations, latex style math expressions and more.
@@ -351,7 +351,7 @@
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
 - [HYP3R00T/CelestialDocs](https://github.com/HYP3R00T/CelestialDocs) - CelestialDocs is a minimal and versatile documentation template built with Astro and Tailwind CSS. It offers a clean interface, fast static site generation, and modern UI components with Shadcn UI. Ea
 - [nyaggah/bedframe](https://github.com/nyaggah/bedframe) - Your Browser Extension Development Framework
-- [saberzero1/quartz-syncer](https://github.com/saberzero1/quartz-syncer) - Manage and publish your notes to Quartz. Supports Dataview.
+- [saberzero1/quartz-syncer](https://github.com/saberzero1/quartz-syncer) - Manage and publish your notes to Quartz, the fast, batteries-included static-site generator.
 - [nicholasdly/pomodoro](https://github.com/nicholasdly/pomodoro) - A pomodoro timer and to-do list. ⏰
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [rameshvarun/blog-cells](https://github.com/rameshvarun/blog-cells) - Add interactive code snippets to any blog or webpage.
