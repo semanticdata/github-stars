@@ -101,6 +101,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [software](#software)
+- [sublime-text](#sublime-text)
 - [svelte](#svelte)
 - [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
@@ -839,6 +840,10 @@
 ## software 
 
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+
+## sublime-text 
+
+- [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.
 
 ## svelte 
 
