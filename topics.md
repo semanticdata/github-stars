@@ -613,6 +613,7 @@
 
 ## others 
 
+- [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file) - Direct File
 - [webtui/webtui](https://github.com/webtui/webtui) - 
 - [Textualize/tcss-vscode-extension](https://github.com/Textualize/tcss-vscode-extension) - VS Code extension that enables syntax highlighting for Textual CSS files.
 - [Textualize/textual-plotext](https://github.com/Textualize/textual-plotext) - A Textual widget wrapper library for Plotext
