@@ -164,6 +164,7 @@
 
 ## JavaScript 
 
+- [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file) - Direct File
 - [ternera/exif-viewer](https://github.com/ternera/exif-viewer) - A browser extension to display EXIF data of images directly on web pages.
 - [conveyal/transitive.js](https://github.com/conveyal/transitive.js) - Transit data visualization
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
