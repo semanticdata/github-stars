@@ -85,6 +85,7 @@
 - [pixel-art](#pixel-art)
 - [powershell](#powershell)
 - [privacy](#privacy)
+- [productivity](#productivity)
 - [project-management](#project-management)
 - [pwa](#pwa)
 - [python](#python)
@@ -762,6 +763,14 @@
 
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+
+## productivity 
+
+- [charm-and-friends/taskcli](https://github.com/charm-and-friends/taskcli) - A tutorial for building a Taskwarrior-inspired task tracker in Go using glamorous CLI libraries
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
+- [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
+- [jackyzha0/tabspace](https://github.com/jackyzha0/tabspace) - ✍️ A scratchspace for your new Tab page
 
 ## project-management 
 
