@@ -613,7 +613,6 @@
 
 ## others 
 
-- [callumalpass/tasknotes](https://github.com/callumalpass/tasknotes) - Comprehensive task and note management with calendar integration for Obsidian
 - [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file) - Direct File
 - [webtui/webtui](https://github.com/webtui/webtui) - 
 - [Textualize/tcss-vscode-extension](https://github.com/Textualize/tcss-vscode-extension) - VS Code extension that enables syntax highlighting for Textual CSS files.
