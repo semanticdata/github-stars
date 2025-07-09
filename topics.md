@@ -638,7 +638,7 @@
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [JustAman62/undercut-f1](https://github.com/JustAman62/undercut-f1) - F1 Live Timing TUI for all F1 sessions with variable delay to sync to your TV. Supports replaying previously recorded sessions.
-- [blairjordan/codachi](https://github.com/blairjordan/codachi) - 👾 A virtual pet for VS Code
+- [blairjordan/codachi](https://github.com/blairjordan/codachi) - 👾 A virtual pet for VS Code / Cursor
 - [usetrmnl/trmnl-chrome](https://github.com/usetrmnl/trmnl-chrome) - New Tab Extension for Chrome that displays your current TRMNL screen whenever you open a new tab.
 - [potree/potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets
 - [CloudCompare/CloudCompare](https://github.com/CloudCompare/CloudCompare) - CloudCompare main repository
