@@ -505,6 +505,7 @@
 
 ## linux 
 
+- [devangshekhawat/Fedora-42-Post-Install-Guide](https://github.com/devangshekhawat/Fedora-42-Post-Install-Guide) - Things to do after installing Fedora 42
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -622,6 +623,7 @@
 
 ## others 
 
+- [e6a5/zenta](https://github.com/e6a5/zenta) - zenta - mindfulness for terminal users 🧘‍♂️
 - [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file) - Direct File
 - [webtui/webtui](https://github.com/webtui/webtui) - 
 - [Textualize/tcss-vscode-extension](https://github.com/Textualize/tcss-vscode-extension) - VS Code extension that enables syntax highlighting for Textual CSS files.
