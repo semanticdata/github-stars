@@ -123,6 +123,7 @@
 
 ## Go 
 
+- [e6a5/zenta](https://github.com/e6a5/zenta) - zenta - mindfulness for terminal users 🧘‍♂️
 - [charm-and-friends/kancli](https://github.com/charm-and-friends/kancli) - A tutorial for building a command line kanban board in Go
 - [charm-and-friends/taskcli](https://github.com/charm-and-friends/taskcli) - A tutorial for building a Taskwarrior-inspired task tracker in Go using glamorous CLI libraries
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -250,6 +251,7 @@
 
 ## Others 
 
+- [devangshekhawat/Fedora-42-Post-Install-Guide](https://github.com/devangshekhawat/Fedora-42-Post-Install-Guide) - Things to do after installing Fedora 42
 - [orangekame3/awesome-terminal-recorder](https://github.com/orangekame3/awesome-terminal-recorder) - 🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.
 - [Textualize/transcendent-textual](https://github.com/Textualize/transcendent-textual) - Textual apps and libraries
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
