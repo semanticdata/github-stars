@@ -15,7 +15,6 @@
 - [bash](#bash)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
-- [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -196,10 +195,6 @@
 
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [dscharrer/innoextract](https://github.com/dscharrer/innoextract) - A tool to unpack installers created by Inno Setup
-
-## chatgpt 
-
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
 
 ## chrome 
 
