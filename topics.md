@@ -214,6 +214,7 @@
 
 ## cli 
 
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
 - [orangekame3/awesome-terminal-recorder](https://github.com/orangekame3/awesome-terminal-recorder) - 🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -407,6 +408,7 @@
 
 ## golang 
 
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [charm-and-friends/kancli](https://github.com/charm-and-friends/kancli) - A tutorial for building a command line kanban board in Go
 - [charm-and-friends/taskcli](https://github.com/charm-and-friends/taskcli) - A tutorial for building a Taskwarrior-inspired task tracker in Go using glamorous CLI libraries
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
