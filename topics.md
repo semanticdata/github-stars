@@ -701,7 +701,7 @@
 - [potahtml/mpa-archive](https://github.com/potahtml/mpa-archive) - Crawls a Multi-Page Application to a zip file, serve the Multi-Page Application from the zip file. A MPA archiver. Could be used as a Site Generator. Written for https://pota.quack.uy/
 - [dschep/GistMarklets](https://github.com/dschep/GistMarklets) - {}🔖 Easy to use installation page for bookmarklets hosted as gists.
 - [koek67/resume-builder](https://github.com/koek67/resume-builder) - Create a clean, easy to read resume in pure Python.
-- [kjk/edna](https://github.com/kjk/edna) - Note taking for developers and power users
+- [kjk/edna](https://github.com/kjk/edna) - Note taking with super powers
 - [Sheepolution/how-to-love](https://github.com/Sheepolution/how-to-love) - LÖVE tutorials
 - [WebdevShefali/CheatSheets](https://github.com/WebdevShefali/CheatSheets) - A collection of high-quality cheat sheets for web development technologies, including CSS, Git, HTML, and VSCode.
 - [banner-maker/banner-maker](https://github.com/banner-maker/banner-maker) - 🎨 Make your own banner
