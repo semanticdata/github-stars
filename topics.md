@@ -122,6 +122,7 @@
 - [webapp](#webapp)
 - [windows](#windows)
 - [wordpress](#wordpress)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -999,6 +1000,10 @@
 ## wordpress 
 
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
+
+## zsh 
+
+- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 
 
 ## License
