@@ -123,6 +123,7 @@
 
 ## Go 
 
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -171,6 +172,7 @@
 
 ## JavaScript 
 
+- [html-preview/html-preview.github.io](https://github.com/html-preview/html-preview.github.io) - HTML Preview for git-forge Repositories
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file) - Direct File
 - [ternera/exif-viewer](https://github.com/ternera/exif-viewer) - A browser extension to display EXIF data of images directly on web pages.
