@@ -143,6 +143,7 @@
 
 ## HTML 
 
+- [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [mozilla/notes](https://github.com/mozilla/notes) - DEPRECATED - A notepad for Firefox
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
@@ -173,6 +174,7 @@
 
 ## JavaScript 
 
+- [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
 - [raindropio/app](https://github.com/raindropio/app) - 
 - [html-preview/html-preview.github.io](https://github.com/html-preview/html-preview.github.io) - HTML Preview for git-forge Repositories
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
