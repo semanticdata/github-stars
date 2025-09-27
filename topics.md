@@ -691,7 +691,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
-- [raindropio/app](https://github.com/raindropio/app) - 
+- [raindropio/app](https://github.com/raindropio/app) - Source code of web app and browser extensions
 - [Nicholas-L-Johnson/flip-card](https://github.com/Nicholas-L-Johnson/flip-card) - 
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
