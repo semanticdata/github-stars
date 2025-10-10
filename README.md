@@ -79,6 +79,7 @@
 
 ## C++ 
 
+- [mafik/keyer](https://github.com/mafik/keyer) - Firmware & goodies for making a KEYER (one-handed chorded keyboard).
 - [CloudCompare/CloudCompare](https://github.com/CloudCompare/CloudCompare) - CloudCompare main repository
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
