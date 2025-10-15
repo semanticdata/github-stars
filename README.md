@@ -182,6 +182,7 @@
 
 ## JavaScript 
 
+- [rknightuk/omglolcli](https://github.com/rknightuk/omglolcli) - omg, lol. a cli for omg.lol
 - [mafik/keyer](https://github.com/mafik/keyer) - Firmware & goodies for making a KEYER (one-handed chorded keyboard).
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
 - [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
