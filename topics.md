@@ -694,6 +694,7 @@
 
 ## others 
 
+- [sivers/sivers](https://github.com/sivers/sivers) - my database and the web apps that use it
 - [mafik/keyer](https://github.com/mafik/keyer) - Firmware & goodies for making a KEYER (one-handed chorded keyboard).
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
