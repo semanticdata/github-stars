@@ -643,7 +643,6 @@
 - [blacksmithgu/datacore](https://github.com/blacksmithgu/datacore) - Work-in-progress successor to Dataview with a focus on UX and speed.
 - [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style p
 - [secure-77/Perlite](https://github.com/secure-77/Perlite) - A web-based markdown viewer optimized for Obsidian
-- [rothsandro/eleventy-notes](https://github.com/rothsandro/eleventy-notes) - A template for Eleventy to publish your personal notes or docs.
 - [obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
 - [andrewmcgivery/obsidian-soundscapes](https://github.com/andrewmcgivery/obsidian-soundscapes) - A plugin for Obsidian.MD that adds a music/ambiance player to the status bar to play Lofi beats, nature sounds, ambiance, relaxing music, and more.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
