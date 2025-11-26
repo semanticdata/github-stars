@@ -52,6 +52,7 @@
 - [go](#go)
 - [godot](#godot)
 - [golang](#golang)
+- [gui](#gui)
 - [gulp](#gulp)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
@@ -448,6 +449,14 @@
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 
+## gui 
+
+- [Efeckc17/simple-todo-c](https://github.com/Efeckc17/simple-todo-c) - A lightweight, native Windows Todo application built with pure C and the Win32 API. Just 60 KB
+- [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.
+- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
+- [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend
+- [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
+
 ## gulp 
 
 - [brianmaierjr/uni](https://github.com/brianmaierjr/uni) - A one-page jekyll theme.
@@ -782,7 +791,6 @@
 - [Charca/astro-blog-template](https://github.com/Charca/astro-blog-template) - Personal Blog Template Powered by Astro
 - [kangabru/pretty-snap](https://github.com/kangabru/pretty-snap) - Awesome editing apps to make your screenshots look 🔥
 - [twogrey/CoPiBoo---Color-Picker-Bookmarklet](https://github.com/twogrey/CoPiBoo---Color-Picker-Bookmarklet) - A multilingual & responsive color picker bookmarklet
-- [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend
 - [kirso/logseq-panic-theme](https://github.com/kirso/logseq-panic-theme) - Dark theme for Logseq inspired by Palette theme from Panic and panic mode theme from Bear
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
 - [potahtml/mpa-archive](https://github.com/potahtml/mpa-archive) - Crawls a Multi-Page Application to a zip file, serve the Multi-Page Application from the zip file. A MPA archiver. Could be used as a Site Generator. Written for https://pota.quack.uy/
