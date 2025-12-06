@@ -15,6 +15,7 @@
 - [Dart](#dart)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
+- [F#](#f#)
 - [Fluent](#fluent)
 - [Go](#go)
 - [HTML](#html)
@@ -123,6 +124,10 @@
 ## Emacs Lisp 
 
 - [jrblevin/markdown-mode](https://github.com/jrblevin/markdown-mode) - Emacs Markdown Mode
+
+## F# # 
+
+- [Roald87/rssrdr](https://github.com/Roald87/rssrdr) - The simplest RSS reader on the planet.
 
 ## Fluent 
 
