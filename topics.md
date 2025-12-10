@@ -721,6 +721,7 @@
 
 ## others 
 
+- [brunosimon/folio-2025](https://github.com/brunosimon/folio-2025) - 
 - [Whamp/chirp-stt](https://github.com/Whamp/chirp-stt) - 
 - [sivers/sivers](https://github.com/sivers/sivers) - my database and the web apps that use it
 - [mafik/keyer](https://github.com/mafik/keyer) - Firmware & goodies for making a KEYER (one-handed chorded keyboard).
