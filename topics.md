@@ -721,6 +721,7 @@
 
 ## others 
 
+- [11ty/nunjucks](https://github.com/11ty/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [brunosimon/folio-2025](https://github.com/brunosimon/folio-2025) - 
 - [Whamp/chirp-stt](https://github.com/Whamp/chirp-stt) - 
 - [sivers/sivers](https://github.com/sivers/sivers) - my database and the web apps that use it
