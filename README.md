@@ -188,6 +188,7 @@
 
 ## JavaScript 
 
+- [11ty/nunjucks](https://github.com/11ty/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [brunosimon/folio-2025](https://github.com/brunosimon/folio-2025) - 
 - [rknightuk/omglolcli](https://github.com/rknightuk/omglolcli) - omg, lol. a cli for omg.lol
 - [mafik/keyer](https://github.com/mafik/keyer) - Firmware & goodies for making a KEYER (one-handed chorded keyboard).
