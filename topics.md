@@ -119,6 +119,7 @@
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [termux](#termux)
+- [tui](#tui)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ui](#ui)
@@ -750,7 +751,6 @@
 - [zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-- [JustAman62/undercut-f1](https://github.com/JustAman62/undercut-f1) - F1 Live Timing TUI for all F1 sessions with variable delay to sync to your TV. Supports replaying previously recorded sessions.
 - [blairjordan/codachi](https://github.com/blairjordan/codachi) - 👾 A virtual pet for VS Code / Cursor
 - [usetrmnl/trmnl-chrome](https://github.com/usetrmnl/trmnl-chrome) - New Tab Extension for Chrome that displays your current TRMNL screen whenever you open a new tab.
 - [potree/potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets
@@ -1049,6 +1049,16 @@
 
 - [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - This is the official repository for the back end of the Andronix app 🚀. Here you can know all the scripts you're installing 😎
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+
+## tui 
+
+- [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
+- [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [JustAman62/undercut-f1](https://github.com/JustAman62/undercut-f1) - F1 Live Timing TUI for all F1 sessions with variable delay to sync to your TV. Supports replaying previously recorded sessions.
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
 ## twitter 
 
