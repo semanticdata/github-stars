@@ -187,6 +187,7 @@
 
 ## JavaScript 
 
+- [donmccurdy/three-gltf-viewer](https://github.com/donmccurdy/three-gltf-viewer) - Drag-and-drop preview for glTF 2.0 models in WebGL using three.js.
 - [11ty/nunjucks](https://github.com/11ty/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [brunosimon/folio-2025](https://github.com/brunosimon/folio-2025) - 
 - [rknightuk/omglolcli](https://github.com/rknightuk/omglolcli) - omg, lol. a cli for omg.lol
