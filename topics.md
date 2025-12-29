@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [3d](#3d)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [analytics](#analytics)
@@ -132,6 +133,10 @@
 - [wordpress](#wordpress)
 - [youtube](#youtube)
 - [zsh](#zsh)
+
+## 3d 
+
+- [google/model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR!
 
 ## ai 
 
