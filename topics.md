@@ -727,6 +727,8 @@
 
 ## others 
 
+- [zachleat/import-module-string](https://github.com/zachleat/import-module-string) - Use import('data:') and import(Blob) to execute arbitrary JavaScript strings
+- [blakewatson/htmlforpeople](https://github.com/blakewatson/htmlforpeople) - Web book about how to make a website with HTML.
 - [donmccurdy/three-gltf-viewer](https://github.com/donmccurdy/three-gltf-viewer) - Drag-and-drop preview for glTF 2.0 models in WebGL using three.js.
 - [11ty/nunjucks](https://github.com/11ty/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [brunosimon/folio-2025](https://github.com/brunosimon/folio-2025) - 
