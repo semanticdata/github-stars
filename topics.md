@@ -169,6 +169,8 @@
 
 ## atom 
 
+- [LukasKnuth/briefly](https://github.com/LukasKnuth/briefly) - A calm, minimal RSS/Atom reader that just shows you whats new.
+- [capjamesg/web-reader](https://github.com/capjamesg/web-reader) - A minimal web reader.
 - [Roald87/rssrdr](https://github.com/Roald87/rssrdr) - The simplest RSS reader on the planet.
 
 ## automation 
