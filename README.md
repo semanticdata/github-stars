@@ -119,6 +119,7 @@
 
 ## Elixir 
 
+- [LukasKnuth/briefly](https://github.com/LukasKnuth/briefly) - A calm, minimal RSS/Atom reader that just shows you whats new.
 - [woutdp/live_svelte](https://github.com/woutdp/live_svelte) - Svelte inside Phoenix LiveView with seamless end-to-end reactivity
 
 ## Emacs Lisp 
@@ -322,6 +323,7 @@
 
 ## Python 
 
+- [capjamesg/web-reader](https://github.com/capjamesg/web-reader) - A minimal web reader.
 - [errata-ai/packages](https://github.com/errata-ai/packages) - :package: A collection of pre-packaged, Vale-compatible style guides and configurations.
 - [Whamp/chirp-stt](https://github.com/Whamp/chirp-stt) - 
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
