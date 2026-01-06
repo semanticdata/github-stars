@@ -734,6 +734,7 @@
 
 ## others 
 
+- [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) - Type definitions for the latest Obsidian API.
 - [errata-ai/packages](https://github.com/errata-ai/packages) - :package: A collection of pre-packaged, Vale-compatible style guides and configurations.
 - [zachleat/import-module-string](https://github.com/zachleat/import-module-string) - Use import('data:') and import(Blob) to execute arbitrary JavaScript strings
 - [blakewatson/htmlforpeople](https://github.com/blakewatson/htmlforpeople) - Web book about how to make a website with HTML.
