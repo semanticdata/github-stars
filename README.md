@@ -97,6 +97,7 @@
 - [blakewatson/htmlforpeople](https://github.com/blakewatson/htmlforpeople) - Web book about how to make a website with HTML.
 - [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS.
 - [trevortylerlee/barebones](https://github.com/trevortylerlee/barebones) - Welcome to Barebones, an ultra minimalistic Astro + Tailwind CSS starter template.
+- [saberzero1/quartz-themes](https://github.com/saberzero1/quartz-themes) - Obsidian 🤝 Quartz. Quartz-compatible Obsidian themes.
 - [brianmaierjr/uni](https://github.com/brianmaierjr/uni) - A one-page jekyll theme.
 - [Heydon/REVENGE.CSS](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that puts pink error boxes (with messages in comic sans) everywhere you write bad HTML.
 - [CondensedMilk7/eleventy-academic-template](https://github.com/CondensedMilk7/eleventy-academic-template) - 11ty template for academic style blog with citations, latex style math expressions and more.
@@ -133,7 +134,6 @@
 ## Fluent 
 
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 
 ## Go 
 
@@ -208,6 +208,7 @@
 - [conveyal/transitive.js](https://github.com/conveyal/transitive.js) - Transit data visualization
 - [usetrmnl/trmnl-chrome](https://github.com/usetrmnl/trmnl-chrome) - New Tab Extension for Chrome that displays your current TRMNL screen whenever you open a new tab.
 - [potree/potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [mayurankv/Obsidian-Code-Styler](https://github.com/mayurankv/Obsidian-Code-Styler) - A plugin for Obsidian.md for styling codeblocks and inline code
 - [ibillingsley/HumbleNewTabPage](https://github.com/ibillingsley/HumbleNewTabPage) - New tab page extension for Chrome and Firefox
 - [uwidev/memory-flow-interface](https://github.com/uwidev/memory-flow-interface) - Memory Flow Interface (MFI) is a working environment that promotes the externalization of working memory for mental processing. This repository serves to describe MFI, as well as serve as an implement
@@ -374,7 +375,6 @@
 ## SCSS 
 
 - [ffoodd/a11y.css](https://github.com/ffoodd/a11y.css) - This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external style
-- [saberzero1/quartz-themes](https://github.com/saberzero1/quartz-themes) - Obsidian 🤝 Quartz. Quartz-compatible Obsidian themes.
 - [5t3ph/eleventy-rss-reader](https://github.com/5t3ph/eleventy-rss-reader) - Create a personal RSS Reader using Eleventy. Review recordings to learn how it was built!
 - [rilwis/bamboo](https://github.com/rilwis/bamboo) - A classless CSS utility for your HTML
 - [nhoizey/pack11ty](https://github.com/nhoizey/pack11ty) - An heavily opinionated Eleventy template project with Sass
