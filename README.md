@@ -278,6 +278,7 @@
 ## MDX 
 
 - [webtui/webtui](https://github.com/webtui/webtui) - 
+- [HYP3R00T/CelestialDocs](https://github.com/HYP3R00T/CelestialDocs) - CelestialDocs is a minimal and versatile documentation template built with Astro and Tailwind CSS. It offers a clean interface, fast static site generation, and modern UI components with Shadcn UI. Ea
 - [erfianugrah/revista-3](https://github.com/erfianugrah/revista-3) - Just a photography theme built on Astro
 
 ## Makefile 
@@ -422,7 +423,6 @@
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - Template for Obsidian community plugins with build configuration and development best practices.
 - [fyears/weather-fetcher](https://github.com/fyears/weather-fetcher) - 
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
-- [HYP3R00T/CelestialDocs](https://github.com/HYP3R00T/CelestialDocs) - CelestialDocs is a minimal and versatile documentation template built with Astro and Tailwind CSS. It offers a clean interface, fast static site generation, and modern UI components with Shadcn UI. Ea
 - [nyaggah/bedframe](https://github.com/nyaggah/bedframe) - Your Browser Extension Development Framework
 - [nicholasdly/pomodoro](https://github.com/nicholasdly/pomodoro) - A pomodoro timer and to-do list. ⏰
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
