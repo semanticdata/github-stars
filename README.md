@@ -153,7 +153,7 @@
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [xilapa/go-tiny-projects](https://github.com/xilapa/go-tiny-projects) - Tiny (but functional) golang projects/libraries.
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [cooperspencer/gickup](https://github.com/cooperspencer/gickup) - 
 
 ## HTML 
