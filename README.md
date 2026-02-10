@@ -199,7 +199,7 @@
 - [brunosimon/folio-2025](https://github.com/brunosimon/folio-2025) - 
 - [rknightuk/omglolcli](https://github.com/rknightuk/omglolcli) - omg, lol. a cli for omg.lol
 - [mafik/keyer](https://github.com/mafik/keyer) - Firmware & goodies for making a KEYER (one-handed chorded keyboard).
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
+- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
 - [raindropio/app](https://github.com/raindropio/app) - Source code of web app and browser extensions
 - [html-preview/html-preview.github.io](https://github.com/html-preview/html-preview.github.io) - HTML Preview for git-forge Repositories
