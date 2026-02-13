@@ -462,7 +462,7 @@
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## godot 
 
@@ -478,7 +478,7 @@
 - [charm-and-friends/taskcli](https://github.com/charm-and-friends/taskcli) - A tutorial for building a Taskwarrior-inspired task tracker in Go using glamorous CLI libraries
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## gui 
 
@@ -598,7 +598,7 @@
 ## llm 
 
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## lua 
 
@@ -834,7 +834,7 @@
 - [revolter/notepadtab.com](https://github.com/revolter/notepadtab.com) - 
 - [technomancy-dev/technonomicon](https://github.com/technomancy-dev/technonomicon) - The book of the devs.
 - [Jigoku/paddy](https://github.com/Jigoku/paddy) - LÖVE2D -  an onscreen controller display for touch enabled devices
-- [KlingTeam/LivePortrait](https://github.com/KlingTeam/LivePortrait) - Bring portraits to life!
+- [KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait) - Bring portraits to life!
 - [apankrat/js-noisy-gradient](https://github.com/apankrat/js-noisy-gradient) - Small and fast lib for smoothing visible banding in linear-gradient backgrounds.
 - [apankrat/writing](https://github.com/apankrat/writing) - Writing is a lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported).
 - [Charca/astro-blog-template](https://github.com/Charca/astro-blog-template) - Personal Blog Template Powered by Astro
