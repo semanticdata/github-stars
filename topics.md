@@ -588,7 +588,7 @@
 ## linux 
 
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
-- [devangshekhawat/Fedora-43-Post-Install-Guide](https://github.com/devangshekhawat/Fedora-43-Post-Install-Guide) - Things to do after installing Fedora 43
+- [devangshekhawat/Fedora-44-Post-Install-Guide](https://github.com/devangshekhawat/Fedora-44-Post-Install-Guide) - Things to do after installing Fedora 44
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -753,7 +753,7 @@
 - [vasanthv/hello](https://github.com/vasanthv/hello) - Free group video call for the web. No signups. No downloads.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) - Type definitions for the latest Obsidian API.
-- [errata-ai/packages](https://github.com/errata-ai/packages) - :package: A collection of pre-packaged, Vale-compatible style guides and configurations.
+- [vale-cli/packages](https://github.com/vale-cli/packages) - :package: A collection of pre-packaged, Vale-compatible style guides and configurations.
 - [zachleat/import-module-string](https://github.com/zachleat/import-module-string) - Use import('data:') and import(Blob) to execute arbitrary JavaScript strings
 - [blakewatson/htmlforpeople](https://github.com/blakewatson/htmlforpeople) - Web book about how to make a website with HTML.
 - [donmccurdy/three-gltf-viewer](https://github.com/donmccurdy/three-gltf-viewer) - Drag-and-drop preview for glTF 2.0 models in WebGL using three.js.
