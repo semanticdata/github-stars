@@ -871,7 +871,7 @@
 - [maks/MGit](https://github.com/maks/MGit) - A Git client for Android.
 - [adamstddrd/grease](https://github.com/adamstddrd/grease) - A starter for working with the modern web platform
 - [vrtmrz/diffzip](https://github.com/vrtmrz/diffzip) - 
-- [weather-gov/weather.gov](https://github.com/weather-gov/weather.gov) - weather.gov 2.0
+- [weather-gov/weather.gov](https://github.com/weather-gov/weather.gov) - 🌤️ Mirror of weather.gov 2.0 🌤️
 - [axcore/tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 - [thesamim/TickTickSync](https://github.com/thesamim/TickTickSync) - 
 - [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
