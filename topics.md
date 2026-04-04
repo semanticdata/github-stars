@@ -42,6 +42,7 @@
 - [emacs](#emacs)
 - [emoji](#emoji)
 - [es6](#es6)
+- [esp32](#esp32)
 - [firefox](#firefox)
 - [font](#font)
 - [framework](#framework)
@@ -382,6 +383,10 @@
 ## es6 
 
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
+
+## esp32 
+
+- [lds133/weather_landscape](https://github.com/lds133/weather_landscape) - Visualizing Weather Forecasts Through Landscape Imagery
 
 ## firefox 
 
