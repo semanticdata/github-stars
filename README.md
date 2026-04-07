@@ -437,7 +437,7 @@
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style p
 - [Xe/praise-me](https://github.com/Xe/praise-me) - Praise my GitHub profile!
-- [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Create beautiful markdown-based websites, docs wikis and PKMs.
+- [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Publish markdown (and html) websites, docs, wikis and websites in seconds. Integrates with your AI.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [kangabru/pretty-snap](https://github.com/kangabru/pretty-snap) - Awesome editing apps to make your screenshots look 🔥
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
