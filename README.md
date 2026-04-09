@@ -30,6 +30,7 @@
 - [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
+- [PLpgSQL](#plpgsql)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Rust](#rust)
@@ -155,7 +156,6 @@
 
 ## HTML 
 
-- [sivers/sivers](https://github.com/sivers/sivers) - my database and the web apps that use it
 - [chr15m/minimal-pwa](https://github.com/chr15m/minimal-pwa) - Minimal files + config for a PWA
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [mozilla/notes](https://github.com/mozilla/notes) - DEPRECATED - A notepad for Firefox
@@ -316,6 +316,10 @@
 ## PHP 
 
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
+
+## PLpgSQL 
+
+- [sivers/sivers](https://github.com/sivers/sivers) - my database and the web apps that use it
 
 ## PowerShell 
 
