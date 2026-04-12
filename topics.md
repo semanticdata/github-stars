@@ -810,7 +810,7 @@
 - [olivier-monaco/local-storage-bookmarklets](https://github.com/olivier-monaco/local-storage-bookmarklets) - Bookmarklet to export/import localStorage of Browsers
 - [schellingb/LoveWebBuilder](https://github.com/schellingb/LoveWebBuilder) - Package, build and run LÖVE games for the web - https://schellingb.github.io/LoveWebBuilder/
 - [spasmodicon/spacetime-visualizer](https://github.com/spasmodicon/spacetime-visualizer) - 
-- [usetrmnl/trmnl-firmware](https://github.com/usetrmnl/trmnl-firmware) - TRMNL e-ink device firmware
+- [usetrmnl/trmnl-firmware](https://github.com/usetrmnl/trmnl-firmware) - TRMNL ePaper device firmware
 - [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will 
 - [fyears/weather-fetcher](https://github.com/fyears/weather-fetcher) - 
 - [bjesus/notsolocalstorage](https://github.com/bjesus/notsolocalstorage) - Sync localStorage across devices using Firefox Sync
