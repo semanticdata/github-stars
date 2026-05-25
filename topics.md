@@ -335,6 +335,7 @@
 ## developer-tools 
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [HYP3R00T/CelestialDocs](https://github.com/HYP3R00T/CelestialDocs) - CelestialDocs is a modern documentation platform and Astro template designed for scalable, developer-friendly knowledge systems. It combines structured navigation, hybrid content generation, MDX suppo
 - [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
@@ -361,7 +362,7 @@
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [ffoodd/a11y.css](https://github.com/ffoodd/a11y.css) - This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external style
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
-- [HYP3R00T/CelestialDocs](https://github.com/HYP3R00T/CelestialDocs) - CelestialDocs is a minimal and versatile documentation template built with Astro and Tailwind CSS. It offers a clean interface, fast static site generation, and modern UI components with Shadcn UI. Ea
+- [HYP3R00T/CelestialDocs](https://github.com/HYP3R00T/CelestialDocs) - CelestialDocs is a modern documentation platform and Astro template designed for scalable, developer-friendly knowledge systems. It combines structured navigation, hybrid content generation, MDX suppo
 
 ## electron 
 
@@ -1070,7 +1071,7 @@
 - [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an HTML-first UI component library built on UIkit 3 and extended with LitElement, inspired by shadcn/ui.
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS.
-- [HYP3R00T/CelestialDocs](https://github.com/HYP3R00T/CelestialDocs) - CelestialDocs is a minimal and versatile documentation template built with Astro and Tailwind CSS. It offers a clean interface, fast static site generation, and modern UI components with Shadcn UI. Ea
+- [HYP3R00T/CelestialDocs](https://github.com/HYP3R00T/CelestialDocs) - CelestialDocs is a modern documentation platform and Astro template designed for scalable, developer-friendly knowledge systems. It combines structured navigation, hybrid content generation, MDX suppo
 - [trevortylerlee/barebones](https://github.com/trevortylerlee/barebones) - An ultra minimalistic Astro + Tailwind CSS starter template.
 - [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) - A minimal Astro blog theme
 - [MarcoMicale/Minimalism](https://github.com/MarcoMicale/Minimalism) - A 11ty starter, PWA, Tailwind Css, SEO...
