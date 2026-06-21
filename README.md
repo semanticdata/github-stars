@@ -158,6 +158,7 @@
 
 - [chr15m/minimal-pwa](https://github.com/chr15m/minimal-pwa) - Minimal files + config for a PWA
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
+- [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
 - [mozilla/notes](https://github.com/mozilla/notes) - DEPRECATED - A notepad for Firefox
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [erfianugrah/revista-3](https://github.com/erfianugrah/revista-3) - Just a photography theme built on Astro
@@ -396,7 +397,6 @@
 ## TeX 
 
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
-- [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
 
 ## TypeScript 
 
