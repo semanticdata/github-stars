@@ -894,7 +894,7 @@
 - [fontforge/fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
 - [phazus/lofiatc.sh](https://github.com/phazus/lofiatc.sh) - lofiatc.com but with mpv
 - [mgoeppner/evemon](https://github.com/mgoeppner/evemon) - A lightweight, easy-to-use standalone Windows application designed to assist you in keeping track of your EVE Online character progression.
-- [LukeYui/EldenRingSeamlessCoopRelease](https://github.com/LukeYui/EldenRingSeamlessCoopRelease) - 
+- [yuiamoroll/EldenRingSeamlessCoopRelease](https://github.com/yuiamoroll/EldenRingSeamlessCoopRelease) - 
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [tobloef/text2mindmap](https://github.com/tobloef/text2mindmap) - Online tool for making mindmaps by writing indented lists
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
