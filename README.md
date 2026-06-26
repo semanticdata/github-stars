@@ -308,7 +308,7 @@
 - [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 - [theletterf/english-lang](https://github.com/theletterf/english-lang) - The English Programming Language
-- [LukeYui/EldenRingSeamlessCoopRelease](https://github.com/LukeYui/EldenRingSeamlessCoopRelease) - 
+- [yuiamoroll/EldenRingSeamlessCoopRelease](https://github.com/yuiamoroll/EldenRingSeamlessCoopRelease) - 
 
 ## PHP 
 
