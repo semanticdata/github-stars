@@ -477,7 +477,7 @@
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## godot 
 
@@ -493,7 +493,7 @@
 - [charm-and-friends/taskcli](https://github.com/charm-and-friends/taskcli) - A tutorial for building a Taskwarrior-inspired task tracker in Go using glamorous CLI libraries
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## gui 
 
@@ -612,7 +612,7 @@
 ## llm 
 
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## lua 
 
@@ -844,7 +844,7 @@
 - [delashum/obsidian-checklist-plugin](https://github.com/delashum/obsidian-checklist-plugin) - 
 - [Explosion-Scratch/firebuilder](https://github.com/Explosion-Scratch/firebuilder) - A comprehensive firefox profile, themes, userCSS and userChrome builder
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
-- [CondensedMilk7/eleventy-academic-template](https://github.com/CondensedMilk7/eleventy-academic-template) - 11ty template for academic style blog with citations, latex style math expressions and more.
+- [pridont/eleventy-academic-template](https://github.com/pridont/eleventy-academic-template) - 11ty template for academic style blog with citations, latex style math expressions and more.
 - [Xe/praise-me](https://github.com/Xe/praise-me) - Praise my GitHub profile!
 - [codenoid/github-roast](https://github.com/codenoid/github-roast) - Spicy GitHub Roast 🔥
 - [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
