@@ -98,7 +98,7 @@
 - [trevortylerlee/barebones](https://github.com/trevortylerlee/barebones) - An ultra minimalistic Astro + Tailwind CSS starter template.
 - [brianmaierjr/uni](https://github.com/brianmaierjr/uni) - A one-page jekyll theme.
 - [Heydon/REVENGE.CSS](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that puts pink error boxes (with messages in comic sans) everywhere you write bad HTML.
-- [CondensedMilk7/eleventy-academic-template](https://github.com/CondensedMilk7/eleventy-academic-template) - 11ty template for academic style blog with citations, latex style math expressions and more.
+- [pridont/eleventy-academic-template](https://github.com/pridont/eleventy-academic-template) - 11ty template for academic style blog with citations, latex style math expressions and more.
 - [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
 - [secure-77/Perlite](https://github.com/secure-77/Perlite) - A web-based markdown viewer optimized for Obsidian
 - [yinkakun/eleventy-duo](https://github.com/yinkakun/eleventy-duo) - Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.
@@ -151,7 +151,7 @@
 - [xilapa/go-tiny-projects](https://github.com/xilapa/go-tiny-projects) - Tiny (but functional) golang projects/libraries.
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [cooperspencer/gickup](https://github.com/cooperspencer/gickup) - 
 
 ## HTML 
