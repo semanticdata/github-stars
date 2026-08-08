@@ -16,7 +16,6 @@
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [F#](#f#)
-- [Fluent](#fluent)
 - [Go](#go)
 - [HTML](#html)
 - [Hack](#hack)
@@ -128,10 +127,6 @@
 
 - [Roald87/rssrdr](https://github.com/Roald87/rssrdr) - The simplest RSS reader on the planet.
 
-## Fluent 
-
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-
 ## Go 
 
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
@@ -157,6 +152,7 @@
 ## HTML 
 
 - [chr15m/minimal-pwa](https://github.com/chr15m/minimal-pwa) - Minimal files + config for a PWA
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
 - [mozilla/notes](https://github.com/mozilla/notes) - DEPRECATED - A notepad for Firefox
