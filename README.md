@@ -16,6 +16,7 @@
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [F#](#f#)
+- [Fluent](#fluent)
 - [Go](#go)
 - [HTML](#html)
 - [Hack](#hack)
@@ -116,7 +117,6 @@
 
 ## Elixir 
 
-- [LukasKnuth/briefly](https://github.com/LukasKnuth/briefly) - A calm, minimal RSS/Atom reader that just shows you whats new.
 - [woutdp/live_svelte](https://github.com/woutdp/live_svelte) - Svelte inside Phoenix LiveView with seamless end-to-end reactivity
 
 ## Emacs Lisp 
@@ -126,6 +126,10 @@
 ## F# # 
 
 - [Roald87/rssrdr](https://github.com/Roald87/rssrdr) - The simplest RSS reader on the planet.
+
+## Fluent 
+
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 ## Go 
 
@@ -152,7 +156,6 @@
 ## HTML 
 
 - [chr15m/minimal-pwa](https://github.com/chr15m/minimal-pwa) - Minimal files + config for a PWA
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
 - [mozilla/notes](https://github.com/mozilla/notes) - DEPRECATED - A notepad for Firefox
