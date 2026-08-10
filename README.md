@@ -297,7 +297,6 @@
 - [bencodezen/bens-obsidian-boilerplate](https://github.com/bencodezen/bens-obsidian-boilerplate) - An opinionated kit to provide people some inspiration and ideas for their own workflows.
 - [stevendborrelli/bluesky-tech-starter-packs](https://github.com/stevendborrelli/bluesky-tech-starter-packs) - A list of tech-related Bluesky starter packs
 - [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4" 720X720 TFT display
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
 - [WebdevShefali/CheatSheets](https://github.com/WebdevShefali/CheatSheets) - A collection of high-quality cheat sheets for web development technologies, including CSS, Git, HTML, and VSCode.
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
@@ -346,6 +345,7 @@
 - [spasmodicon/spacetime-visualizer](https://github.com/spasmodicon/spacetime-visualizer) - 
 - [redimp/otterwiki](https://github.com/redimp/otterwiki) - A minimalistic wiki powered by python, markdown and git.
 - [lds133/weather_landscape](https://github.com/lds133/weather_landscape) - Visualizing Weather Forecasts Through Landscape Imagery
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait) - Bring portraits to life!
 - [koek67/resume-builder](https://github.com/koek67/resume-builder) - Create a clean, easy to read resume in pure Python.
 - [AlexanderKoch-Koch/low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) - 
