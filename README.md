@@ -200,7 +200,7 @@
 - [11ty/nunjucks](https://github.com/11ty/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [brunosimon/folio-2025](https://github.com/brunosimon/folio-2025) - 
 - [mafik/keyer](https://github.com/mafik/keyer) - Firmware & goodies for making a KEYER (one-handed chorded keyboard).
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
+- [plankanban/planka](https://github.com/plankanban/planka) - Elegant open source project tracking. Self-hosted Kanban for teams — free Community edition, with PLANKA Pro for organisations.
 - [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
 - [raindropio/app](https://github.com/raindropio/app) - Source code of web app and browser extensions
 - [html-preview/html-preview.github.io](https://github.com/html-preview/html-preview.github.io) - HTML Preview for git-forge Repositories
