@@ -222,7 +222,6 @@
 - [bjesus/notsolocalstorage](https://github.com/bjesus/notsolocalstorage) - Sync localStorage across devices using Firefox Sync
 - [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [miragecraft/x-include](https://github.com/miragecraft/x-include) - Cross site HTML include via &lt;script&gt; tag in the manner of JSONP.
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [Alamantus/FeatherWiki](https://github.com/Alamantus/FeatherWiki) - A tiny, self-contained JavaScript wiki that runs in the browser [MIRROR]
 - [pmario/file-backups](https://github.com/pmario/file-backups) - File Save & Backup Utility For TiddlyWiki
 - [ThaddeusJiang/Projectify](https://github.com/ThaddeusJiang/Projectify) - Project management in TiddlyWiki
@@ -392,6 +391,7 @@
 ## Svelte 
 
 - [zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 
 ## TeX 
 
