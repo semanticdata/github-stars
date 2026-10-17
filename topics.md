@@ -27,6 +27,7 @@
 - [clojure](#clojure)
 - [cms](#cms)
 - [code](#code)
+- [coding](#coding)
 - [command-line](#command-line)
 - [compiler](#compiler)
 - [cpp](#cpp)
@@ -300,6 +301,10 @@
 ## code 
 
 - [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.
+
+## coding 
+
+- [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android/ios
 
 ## command-line 
 
@@ -925,7 +930,6 @@
 - [axcore/tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 - [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 - [jamigibbs/text-revealer-js](https://github.com/jamigibbs/text-revealer-js) - Reveal deeper information about text you highlight on a web page.
-- [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
 - [theletterf/english-lang](https://github.com/theletterf/english-lang) - The English Programming Language
 - [omsimos/github-stats](https://github.com/omsimos/github-stats) - :octocat: Generate your GitHub stats for your README with ease!
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
