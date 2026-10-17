@@ -252,7 +252,7 @@
 - [11ty/buildawesome](https://github.com/11ty/buildawesome) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
 - [jamigibbs/text-revealer-js](https://github.com/jamigibbs/text-revealer-js) - Reveal deeper information about text you highlight on a web page.
-- [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
+- [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android/ios
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [tobloef/text2mindmap](https://github.com/tobloef/text2mindmap) - Online tool for making mindmaps by writing indented lists
 
