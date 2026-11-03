@@ -337,7 +337,6 @@
 - [ciromattia/kcc](https://github.com/ciromattia/kcc) - KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.
 - [ucg8j/awesome-dash](https://github.com/ucg8j/awesome-dash) - A curated list of awesome Dash (plotly) resources
 - [Uberi/speech_recognition](https://github.com/Uberi/speech_recognition) - Speech recognition module for Python, supporting several engines and APIs, online and offline.
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [kentaroy47/apple-lidar-stream](https://github.com/kentaroy47/apple-lidar-stream) - Stream Apple LiDAR (iPad/iPhone) data with open3d
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [spasmodicon/spacetime-visualizer](https://github.com/spasmodicon/spacetime-visualizer) - 
@@ -415,6 +414,7 @@
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 - [blairjordan/codachi](https://github.com/blairjordan/codachi) - 👾 A virtual pet for VS Code / Cursor / OpenAI dots
 - [koljapluemer/learn-worldmap](https://github.com/koljapluemer/learn-worldmap) - an SR-based web game to finally memorize countries on the world map
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [markahesketh/write-good-obsidian](https://github.com/markahesketh/write-good-obsidian) - Obsidian plugin to help improve writing style
 - [velviagris/obsidian-local-backup](https://github.com/velviagris/obsidian-local-backup) - Automatically creates a local backup of the vault.
 - [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian.
