@@ -142,6 +142,7 @@
 - [ui](#ui)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
+- [vscode](#vscode)
 - [vue](#vue)
 - [web](#web)
 - [webapp](#webapp)
@@ -1209,6 +1210,14 @@
 ## visual-studio-code 
 
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
+- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
+
+## vscode 
+
+- [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
+- [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.
+- [git-emoji/vscode-extension](https://github.com/git-emoji/vscode-extension) - Suggest context based emojis in VS Code
+- [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - 📘 VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 
 ## vue 
