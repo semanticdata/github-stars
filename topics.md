@@ -165,7 +165,7 @@
 
 ## agent-skills 
 
-- [Doist/todoist-cli](https://github.com/Doist/todoist-cli) - Command-line interface for Todoist.
+- [todoist/todoist-cli](https://github.com/todoist/todoist-cli) - Command-line interface for Todoist.
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 
 ## ai 
