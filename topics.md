@@ -91,6 +91,7 @@
 - [music](#music)
 - [mysql](#mysql)
 - [neovim](#neovim)
+- [nestjs](#nestjs)
 - [nextjs](#nextjs)
 - [no-code](#no-code)
 - [node](#node)
@@ -735,6 +736,10 @@
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
+
+## nestjs 
+
+- [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
 
 ## nextjs 
 
